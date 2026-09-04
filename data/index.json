@@ -34,10 +34,10 @@
     "rick_scott": {
       "member_name": "Rick Scott",
       "bioguide_id": "S001217",
-      "last_updated": "2026-09-04T08:54:24.545643+00:00",
-      "last_accessed": "2026-09-04T08:54:24.545643+00:00",
-      "request_count": 3,
-      "trades_count": 21,
+      "last_updated": "2026-09-04T17:08:10.569753+00:00",
+      "last_accessed": "2026-09-04T17:08:10.569753+00:00",
+      "request_count": 4,
+      "trades_count": 106,
       "file_path": "cache/S001217.json"
     },
     "nicole_malliotakis": {
@@ -50,8 +50,8 @@
     "nancy_pelosi": {
       "member_name": "Nancy Pelosi",
       "bioguide_id": "P000197",
-      "last_updated": "2026-09-04T16:36:07.570470+00:00",
-      "last_accessed": "2026-09-04T16:36:07.570470+00:00",
+      "last_updated": "2026-09-04T17:07:05.827242+00:00",
+      "last_accessed": "2026-09-04T17:07:05.827242+00:00",
       "request_count": 15,
       "trades_count": 20,
       "file_path": "cache/P000197.json"
@@ -110,19 +110,19 @@
     "t000278": {
       "member_name": "Tommy Tuberville",
       "bioguide_id": "T000278",
-      "last_updated": "2026-09-04T08:55:27.225399+00:00",
-      "last_accessed": "2026-09-04T08:55:27.225399+00:00",
-      "request_count": 7,
-      "trades_count": 363,
+      "last_updated": "2026-09-04T17:09:07.915653+00:00",
+      "last_accessed": "2026-09-04T17:09:07.915653+00:00",
+      "request_count": 8,
+      "trades_count": 424,
       "file_path": "cache/T000278.json"
     },
     "tommy_tuberville": {
       "member_name": "Tommy Tuberville",
       "bioguide_id": "T000278",
-      "last_updated": "2026-09-04T08:55:27.225399+00:00",
-      "last_accessed": "2026-09-04T08:55:27.225399+00:00",
-      "request_count": 7,
-      "trades_count": 363,
+      "last_updated": "2026-09-04T17:09:07.915653+00:00",
+      "last_accessed": "2026-09-04T17:09:07.915653+00:00",
+      "request_count": 8,
+      "trades_count": 424,
       "file_path": "cache/T000278.json"
     },
     "tommy tuberville": {
@@ -182,8 +182,8 @@
     "p000197": {
       "member_name": "Nancy Pelosi",
       "bioguide_id": "P000197",
-      "last_updated": "2026-09-04T16:36:07.570470+00:00",
-      "last_accessed": "2026-09-04T16:36:07.570470+00:00",
+      "last_updated": "2026-09-04T17:07:05.827242+00:00",
+      "last_accessed": "2026-09-04T17:07:05.827242+00:00",
       "request_count": 15,
       "trades_count": 20,
       "file_path": "cache/P000197.json"
@@ -191,8 +191,8 @@
     "k000389": {
       "member_name": "Ro Khanna",
       "bioguide_id": "K000389",
-      "last_updated": "2026-09-04T16:36:15.203428+00:00",
-      "last_accessed": "2026-09-04T16:36:15.203428+00:00",
+      "last_updated": "2026-09-04T17:07:15.070547+00:00",
+      "last_accessed": "2026-09-04T17:07:15.070547+00:00",
       "request_count": 8,
       "trades_count": 1,
       "file_path": "cache/K000389.json"
@@ -200,8 +200,8 @@
     "ro_khanna": {
       "member_name": "Ro Khanna",
       "bioguide_id": "K000389",
-      "last_updated": "2026-09-04T16:36:15.203428+00:00",
-      "last_accessed": "2026-09-04T16:36:15.203428+00:00",
+      "last_updated": "2026-09-04T17:07:15.070547+00:00",
+      "last_accessed": "2026-09-04T17:07:15.070547+00:00",
       "request_count": 8,
       "trades_count": 1,
       "file_path": "cache/K000389.json"
@@ -227,10 +227,10 @@
     "s001217": {
       "member_name": "Rick Scott",
       "bioguide_id": "S001217",
-      "last_updated": "2026-09-04T08:54:24.545643+00:00",
-      "last_accessed": "2026-09-04T08:54:24.545643+00:00",
-      "request_count": 3,
-      "trades_count": 21,
+      "last_updated": "2026-09-04T17:08:10.569753+00:00",
+      "last_accessed": "2026-09-04T17:08:10.569753+00:00",
+      "request_count": 4,
+      "trades_count": 106,
       "file_path": "cache/S001217.json"
     }
   }
