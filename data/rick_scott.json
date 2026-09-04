@@ -1,0 +1,17 @@
+[
+  {
+    "politician_name": "Rick Scott",
+    "chamber": "Senate",
+    "bioguide_id": "S001217",
+    "ticker": null,
+    "asset_description": "N/A",
+    "asset_type": "Stock",
+    "transaction_type": "Other",
+    "amount_range": "$1,001 - $15,000",
+    "transaction_date": null,
+    "notification_date": null,
+    "owner": "Self",
+    "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/fe83be59-4d6a-4ade-8163-a12b214d71ab/",
+    "comment": ""
+  }
+]

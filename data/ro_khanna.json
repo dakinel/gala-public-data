@@ -1,0 +1,17 @@
+[
+  {
+    "politician_name": "Ro Khanna",
+    "chamber": "House",
+    "bioguide_id": "K000389",
+    "ticker": "AAPL",
+    "asset_description": "Apple Inc. - Common Stock",
+    "asset_type": "Stock",
+    "transaction_type": "Purchase",
+    "amount_range": "$15,001 - $50,000",
+    "transaction_date": "2025-01-18",
+    "notification_date": "2025-01-18",
+    "owner": "Dependent",
+    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20024150.pdf",
+    "comment": "Purchased shares for dependent child account."
+  }
+]

@@ -1,0 +1,237 @@
+{
+  "max_cache_size": 500,
+  "members": {
+    "marjorie_taylor_greene": {
+      "member_name": "Marjorie Taylor Greene",
+      "bioguide_id": "G000596",
+      "last_updated": "2026-09-01T19:47:09.105662+00:00",
+      "last_accessed": "2026-09-01T19:47:09.105662+00:00",
+      "request_count": 4,
+      "trades_count": 271,
+      "file_path": "cache/G000596.json"
+    },
+    "marjorie_greene": {
+      "member_name": "Marjorie Taylor Greene",
+      "bioguide_id": "G000596",
+      "last_accessed": "2026-08-04T16:59:01.628096+00:00",
+      "request_count": 4,
+      "file_path": "cache/marjorie_greene.json"
+    },
+    "w_gregory_steube": {
+      "member_name": "Greg Steube",
+      "bioguide_id": "S001214",
+      "last_accessed": "2026-08-04T14:29:35.193319+00:00",
+      "request_count": 1,
+      "file_path": "cache/w_gregory_steube.json"
+    },
+    "expanded_member_directory_members_directory_json_merged_current_recent_historical_feeds_updated_python_aggregator_directory_manager_py_to_merge_legislators_current_json_with_active_members_from_legislators_historical_json_filtering_for_terms_ending_in_2020_or_later_comprehensive_coverage_rebuilt_the_local_cache_to_index_801_congress_members_including_marjorie_taylor_greene_g000596_structured_fields_extracted_bioguide_id_full_name_first_name_last_name_chamber_senate_house_party_state_and_photo_url_https_unitedstates_github_io_images_congress_225x275_bioguide_jpg_2_enhanced_search_autocomplete_ui_directory_first_search_the_search_engine_in_server_ts_searches_the_member_directory_first_via_fuzzy_matching_across_names_bioguide_ids_party_state_and_chamber_rich_autocomplete_suggestions_photos_rendered_without_clipping_or_circular_cropping_using_official_congress_portraits_full_name_clean_display_typography_with_group_hover_highlights_chamber_badges_styled_badges_distinguishing_senate_amber_house_indigo_and_executive_emerald_party_state_clear_formatting_e_g_republican_ga_alongside_explicit_bioguide_g000596_tags_3_on_demand_bioguide_lookups_bioguide_priority_selecting_any_autocomplete_result_passes_the_bioguide_id_directly_to_api_s_bioguide_verified_disclosures_on_demand_fetches_resolve_the_member_by_bioguide_id_retrieving_official_ptr_disclosure_filings_and_rendering_full_trade_portfolios": {
+      "member_name": "Marjorie Taylor Greene",
+      "bioguide_id": "G000596",
+      "last_accessed": "2026-08-04T14:29:47.630055+00:00",
+      "request_count": 1,
+      "file_path": "cache/expanded_member_directory_members_directory_json_merged_current_recent_historical_feeds_updated_python_aggregator_directory_manager_py_to_merge_legislators_current_json_with_active_members_from_legislators_historical_json_filtering_for_terms_ending_in_2020_or_later_comprehensive_coverage_rebuilt_the_local_cache_to_index_801_congress_members_including_marjorie_taylor_greene_g000596_structured_fields_extracted_bioguide_id_full_name_first_name_last_name_chamber_senate_house_party_state_and_photo_url_https_unitedstates_github_io_images_congress_225x275_bioguide_jpg_2_enhanced_search_autocomplete_ui_directory_first_search_the_search_engine_in_server_ts_searches_the_member_directory_first_via_fuzzy_matching_across_names_bioguide_ids_party_state_and_chamber_rich_autocomplete_suggestions_photos_rendered_without_clipping_or_circular_cropping_using_official_congress_portraits_full_name_clean_display_typography_with_group_hover_highlights_chamber_badges_styled_badges_distinguishing_senate_amber_house_indigo_and_executive_emerald_party_state_clear_formatting_e_g_republican_ga_alongside_explicit_bioguide_g000596_tags_3_on_demand_bioguide_lookups_bioguide_priority_selecting_any_autocomplete_result_passes_the_bioguide_id_directly_to_api_s_bioguide_verified_disclosures_on_demand_fetches_resolve_the_member_by_bioguide_id_retrieving_official_ptr_disclosure_filings_and_rendering_full_trade_portfolios.json"
+    },
+    "rick_scott": {
+      "member_name": "Rick Scott",
+      "bioguide_id": "S001217",
+      "last_updated": "2026-09-04T08:54:24.545643+00:00",
+      "last_accessed": "2026-09-04T08:54:24.545643+00:00",
+      "request_count": 3,
+      "trades_count": 21,
+      "file_path": "cache/S001217.json"
+    },
+    "nicole_malliotakis": {
+      "member_name": "Nicole Malliotakis",
+      "bioguide_id": "M000317",
+      "last_accessed": "2026-08-04T15:45:49.307314+00:00",
+      "request_count": 1,
+      "file_path": "cache/nicole_malliotakis.json"
+    },
+    "nancy_pelosi": {
+      "member_name": "Nancy Pelosi",
+      "bioguide_id": "P000197",
+      "last_updated": "2026-09-04T16:11:19.984113+00:00",
+      "last_accessed": "2026-09-04T16:11:19.984113+00:00",
+      "request_count": 15,
+      "trades_count": 20,
+      "file_path": "cache/P000197.json"
+    },
+    "john_cornyn": {
+      "member_name": "John Cornyn",
+      "bioguide_id": "C001056",
+      "last_accessed": "2026-08-04T18:45:35.512855+00:00",
+      "request_count": 1,
+      "file_path": "cache/john_cornyn.json"
+    },
+    "donald_trump": {
+      "member_name": "Donald Trump",
+      "bioguide_id": "T000045",
+      "last_accessed": "2026-08-04T20:04:30.342364+00:00",
+      "request_count": 1,
+      "file_path": "cache/donald_trump.json"
+    },
+    "david_a_perdue_jr": {
+      "member_name": "David A Perdue , Jr",
+      "bioguide_id": "P000612",
+      "last_accessed": "2026-08-04T20:14:51.709960+00:00",
+      "request_count": 2,
+      "file_path": "cache/david_a_perdue_jr.json"
+    },
+    "kelly_loeffler": {
+      "member_name": "Kelly Loeffler",
+      "bioguide_id": "L000594",
+      "last_accessed": "2026-08-04T20:04:53.753232+00:00",
+      "request_count": 1,
+      "file_path": "cache/kelly_loeffler.json"
+    },
+    "amy_klobuchar": {
+      "member_name": "Amy Klobuchar",
+      "bioguide_id": "K000367",
+      "last_accessed": "2026-08-04T20:12:18.076288+00:00",
+      "request_count": 1,
+      "file_path": "cache/amy_klobuchar.json"
+    },
+    "eric_burlison": {
+      "member_name": "Eric Burlison",
+      "bioguide_id": "B001316",
+      "last_updated": "2026-09-01T19:46:49.603050+00:00",
+      "last_accessed": "2026-09-01T19:46:49.603050+00:00",
+      "request_count": 5,
+      "trades_count": 1,
+      "file_path": "cache/B001316.json"
+    },
+    "kathy_castor": {
+      "member_name": "Kathy Castor",
+      "bioguide_id": "C001066",
+      "last_accessed": "2026-08-04T20:23:52.123996+00:00",
+      "request_count": 1,
+      "file_path": "cache/kathy_castor.json"
+    },
+    "t000278": {
+      "member_name": "Tommy Tuberville",
+      "bioguide_id": "T000278",
+      "last_updated": "2026-09-04T08:55:27.225399+00:00",
+      "last_accessed": "2026-09-04T08:55:27.225399+00:00",
+      "request_count": 7,
+      "trades_count": 363,
+      "file_path": "cache/T000278.json"
+    },
+    "tommy_tuberville": {
+      "member_name": "Tommy Tuberville",
+      "bioguide_id": "T000278",
+      "last_updated": "2026-09-04T08:55:27.225399+00:00",
+      "last_accessed": "2026-09-04T08:55:27.225399+00:00",
+      "request_count": 7,
+      "trades_count": 363,
+      "file_path": "cache/T000278.json"
+    },
+    "tommy tuberville": {
+      "member_name": "Tommy Tuberville",
+      "bioguide_id": "Tommy Tuberville",
+      "last_updated": "2026-09-01T18:59:20.780231+00:00",
+      "last_accessed": "2026-09-01T18:59:20.780231+00:00",
+      "request_count": 8,
+      "trades_count": 638,
+      "file_path": "cache/TOMMY TUBERVILLE.json"
+    },
+    "mark warner": {
+      "member_name": "Mark Warner",
+      "bioguide_id": "Mark Warner",
+      "last_updated": "2026-09-01T19:00:00.681730+00:00",
+      "last_accessed": "2026-09-01T19:00:00.681730+00:00",
+      "request_count": 1,
+      "trades_count": 18,
+      "file_path": "cache/MARK WARNER.json"
+    },
+    "mark_warner": {
+      "member_name": "Mark Warner",
+      "bioguide_id": "Mark Warner",
+      "last_updated": "2026-09-01T19:00:00.681730+00:00",
+      "last_accessed": "2026-09-01T19:00:00.681730+00:00",
+      "request_count": 1,
+      "trades_count": 18,
+      "file_path": "cache/MARK WARNER.json"
+    },
+    "r000615": {
+      "member_name": "Mitt Romney",
+      "bioguide_id": "R000615",
+      "last_updated": "2026-09-01T19:01:32.013017+00:00",
+      "last_accessed": "2026-09-01T19:45:14.883982+00:00",
+      "request_count": 2,
+      "trades_count": 1,
+      "file_path": "cache/R000615.json"
+    },
+    "mitt_romney": {
+      "member_name": "Mitt Romney",
+      "bioguide_id": "R000615",
+      "last_updated": "2026-09-01T19:01:32.013017+00:00",
+      "last_accessed": "2026-09-01T19:01:32.013017+00:00",
+      "request_count": 1,
+      "trades_count": 1,
+      "file_path": "cache/R000615.json"
+    },
+    "rick scott": {
+      "member_name": "Rick Scott",
+      "bioguide_id": "Rick Scott",
+      "last_updated": "2026-09-01T19:04:31.640475+00:00",
+      "last_accessed": "2026-09-01T19:04:31.640475+00:00",
+      "request_count": 2,
+      "trades_count": 32,
+      "file_path": "cache/RICK SCOTT.json"
+    },
+    "p000197": {
+      "member_name": "Nancy Pelosi",
+      "bioguide_id": "P000197",
+      "last_updated": "2026-09-04T16:11:19.984113+00:00",
+      "last_accessed": "2026-09-04T16:11:19.984113+00:00",
+      "request_count": 15,
+      "trades_count": 20,
+      "file_path": "cache/P000197.json"
+    },
+    "k000389": {
+      "member_name": "Ro Khanna",
+      "bioguide_id": "K000389",
+      "last_updated": "2026-09-04T16:11:30.540023+00:00",
+      "last_accessed": "2026-09-04T16:11:30.540023+00:00",
+      "request_count": 8,
+      "trades_count": 1,
+      "file_path": "cache/K000389.json"
+    },
+    "ro_khanna": {
+      "member_name": "Ro Khanna",
+      "bioguide_id": "K000389",
+      "last_updated": "2026-09-04T16:11:30.540023+00:00",
+      "last_accessed": "2026-09-04T16:11:30.540023+00:00",
+      "request_count": 8,
+      "trades_count": 1,
+      "file_path": "cache/K000389.json"
+    },
+    "g000596": {
+      "member_name": "Marjorie Taylor Greene",
+      "bioguide_id": "G000596",
+      "last_updated": "2026-09-01T19:47:09.105662+00:00",
+      "last_accessed": "2026-09-01T19:47:09.105662+00:00",
+      "request_count": 4,
+      "trades_count": 271,
+      "file_path": "cache/G000596.json"
+    },
+    "b001316": {
+      "member_name": "Eric Burlison",
+      "bioguide_id": "B001316",
+      "last_updated": "2026-09-01T19:46:49.603050+00:00",
+      "last_accessed": "2026-09-01T19:46:49.603050+00:00",
+      "request_count": 5,
+      "trades_count": 1,
+      "file_path": "cache/B001316.json"
+    },
+    "s001217": {
+      "member_name": "Rick Scott",
+      "bioguide_id": "S001217",
+      "last_updated": "2026-09-04T08:54:24.545643+00:00",
+      "last_accessed": "2026-09-04T08:54:24.545643+00:00",
+      "request_count": 3,
+      "trades_count": 21,
+      "file_path": "cache/S001217.json"
+    }
+  }
+}
