@@ -1,0 +1,23 @@
+[
+  {
+    "politician_name": "Adrian Smith",
+    "representative": "Adrian Smith",
+    "first_name": "Adrian",
+    "last_name": "Smith",
+    "chamber": "House",
+    "office": "Representative Adrian Smith ()",
+    "ticker": "",
+    "asset_description": "PTR Filing 2026 DocID=20035067 (scanned PDF)",
+    "asset_type": "Other",
+    "type": "Other",
+    "transaction_type": "Other",
+    "transaction_date": "2026-01-01",
+    "disclosure_date": "",
+    "notification_date": "",
+    "amount": "Unknown",
+    "amount_range": "Unknown",
+    "owner": "Self",
+    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035067.pdf",
+    "comment": ""
+  }
+]

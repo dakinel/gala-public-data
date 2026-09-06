@@ -1,0 +1,23 @@
+[
+  {
+    "politician_name": "Maria Elvira Salazar",
+    "representative": "Maria Elvira Salazar",
+    "first_name": "Maria Elvira",
+    "last_name": "Salazar",
+    "chamber": "House",
+    "office": "Representative Maria Elvira Salazar ()",
+    "ticker": "",
+    "asset_description": "PTR Filing 2026 DocID=20033993 (scanned PDF)",
+    "asset_type": "Other",
+    "type": "Other",
+    "transaction_type": "Other",
+    "transaction_date": "2026-01-01",
+    "disclosure_date": "",
+    "notification_date": "",
+    "amount": "Unknown",
+    "amount_range": "Unknown",
+    "owner": "Self",
+    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033993.pdf",
+    "comment": ""
+  }
+]

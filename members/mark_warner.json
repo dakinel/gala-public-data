@@ -1,0 +1,30 @@
+[
+  {
+    "politician_name": "Mark Warner",
+    "chamber": "Senate",
+    "ticker": null,
+    "asset_description": "PTR Filing 08/14/2026 (scanned/no line items)",
+    "type": "Other",
+    "amount": "$1,001 - $15,000",
+    "transaction_date": "2026-08-14",
+    "disclosure_date": "2026-08-14",
+    "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/047c4167-e0a9-44d4-a2bf-5477eb6b20ab/",
+    "transaction_type": "Other",
+    "amount_range": "$1,001 - $15,000",
+    "notification_date": "2026-08-14"
+  },
+  {
+    "politician_name": "Mark Warner",
+    "chamber": "Senate",
+    "ticker": null,
+    "asset_description": "PTR Filing 01/16/2026 (scanned/no line items)",
+    "type": "Other",
+    "amount": "$1,001 - $15,000",
+    "transaction_date": "2026-01-16",
+    "disclosure_date": "2026-01-16",
+    "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/5a8fc13a-c5aa-44b1-a72e-a68badbdd5f4/",
+    "transaction_type": "Other",
+    "amount_range": "$1,001 - $15,000",
+    "notification_date": "2026-01-16"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "politician_name": "Keith Alan Self",
+    "representative": "Keith Alan Self",
+    "first_name": "Keith Alan",
+    "last_name": "Self",
+    "chamber": "House",
+    "office": "Representative Keith Alan Self ()",
+    "ticker": "",
+    "asset_description": "PTR Filing 2026 DocID=9116197 (scanned PDF)",
+    "asset_type": "Other",
+    "type": "Other",
+    "transaction_type": "Other",
+    "transaction_date": "2026-01-01",
+    "disclosure_date": "",
+    "notification_date": "",
+    "amount": "Unknown",
+    "amount_range": "Unknown",
+    "owner": "Self",
+    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116197.pdf",
+    "comment": ""
+  }
+]

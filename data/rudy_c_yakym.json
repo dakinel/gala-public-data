@@ -1,0 +1,23 @@
+[
+  {
+    "politician_name": "Rudy C. Yakym",
+    "representative": "Rudy C. Yakym",
+    "first_name": "Rudy C.",
+    "last_name": "Yakym",
+    "chamber": "House",
+    "office": "Representative Rudy C. Yakym ()",
+    "ticker": "",
+    "asset_description": "PTR Filing 2026 DocID=20034298 (scanned PDF)",
+    "asset_type": "Other",
+    "type": "Other",
+    "transaction_type": "Other",
+    "transaction_date": "2026-01-01",
+    "disclosure_date": "",
+    "notification_date": "",
+    "amount": "Unknown",
+    "amount_range": "Unknown",
+    "owner": "Self",
+    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034298.pdf",
+    "comment": ""
+  }
+]

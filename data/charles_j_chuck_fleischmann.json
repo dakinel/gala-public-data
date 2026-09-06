@@ -1,0 +1,23 @@
+[
+  {
+    "politician_name": "Charles J. \"Chuck\" Fleischmann",
+    "representative": "Charles J. \"Chuck\" Fleischmann",
+    "first_name": "Charles J. \"Chuck\"",
+    "last_name": "Fleischmann",
+    "chamber": "House",
+    "office": "Representative Charles J. \"Chuck\" Fleischmann ()",
+    "ticker": "",
+    "asset_description": "PTR Filing 2026 DocID=8221321 (scanned PDF)",
+    "asset_type": "Other",
+    "type": "Other",
+    "transaction_type": "Other",
+    "transaction_date": "2026-01-01",
+    "disclosure_date": "",
+    "notification_date": "",
+    "amount": "Unknown",
+    "amount_range": "Unknown",
+    "owner": "Self",
+    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221321.pdf",
+    "comment": ""
+  }
+]
