@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Mike Kennedy",
+      "representative": "Mike Kennedy",
+      "first_name": "Mike",
+      "last_name": "Kennedy",
+      "chamber": "House",
+      "office": "Representative Mike Kennedy (UT03)",
+      "ticker": "",
+      "asset_description": "Berkshire Hathaway Inc. New",
+      "type": "Purchase",
+      "transaction_date": "05/09/2025",
+      "disclosure_date": "",
+      "notification_date": "06/20/2025",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030542.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20030542",

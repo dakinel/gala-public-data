@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Andrew Garbarino",
+      "representative": "Andrew Garbarino",
+      "first_name": "Andrew",
+      "last_name": "Garbarino",
+      "chamber": "House",
+      "office": "Representative Andrew Garbarino (NY02)",
+      "ticker": "GAP",
+      "asset_description": "Gap, Inc. (GAP) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "08/21/2025",
+      "disclosure_date": "",
+      "notification_date": "08/21/2025",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030952.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20030952",

@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Warren Davidson",
+      "representative": "Warren Davidson",
+      "first_name": "Warren",
+      "last_name": "Davidson",
+      "chamber": "House",
+      "office": "Representative Warren Davidson (OH08)",
+      "ticker": "",
+      "asset_description": "GE HealthCare Technologies Inc. -",
+      "type": "Sale (Full)",
+      "transaction_date": "03/23/2026",
+      "disclosure_date": "",
+      "notification_date": "03/23/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034223.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20034223",

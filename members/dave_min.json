@@ -1,5 +1,44 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Dave Min",
+      "representative": "Dave Min",
+      "first_name": "Dave",
+      "last_name": "Min",
+      "chamber": "House",
+      "office": "Representative Dave Min (CA47)",
+      "ticker": "",
+      "asset_description": "First Solar, Inc. - Common Stock",
+      "type": "Sale (Full)",
+      "transaction_date": "03/19/2025",
+      "disclosure_date": "",
+      "notification_date": "03/31/2025",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029100.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Dave Min",
+      "representative": "Dave Min",
+      "first_name": "Dave",
+      "last_name": "Min",
+      "chamber": "House",
+      "office": "Representative Dave Min (CA47)",
+      "ticker": "FSLR",
+      "asset_description": "(FSLR) [ST] F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New Zoom Technologies, Inc. (ZOOM)",
+      "type": "Sale (Full)",
+      "transaction_date": "03/19/2025",
+      "disclosure_date": "",
+      "notification_date": "03/31/2025",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029100.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20029100",

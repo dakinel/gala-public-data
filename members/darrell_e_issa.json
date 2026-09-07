@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Darrell E. Issa",
+      "representative": "Darrell E. Issa",
+      "first_name": "Darrell E.",
+      "last_name": "Issa",
+      "chamber": "House",
+      "office": "Representative Darrell E. Issa (CA48)",
+      "ticker": "",
+      "asset_description": "Interest Rate Cap Transaction UBS",
+      "type": "Sale (Full)",
+      "transaction_date": "04/10/2025",
+      "disclosure_date": "",
+      "notification_date": "04/11/2025",
+      "amount": "$25,000,001",
+      "amount_range": "$25,000,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030181.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20030181",

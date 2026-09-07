@@ -1,5 +1,44 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Eleanor Holmes Norton",
+      "representative": "Eleanor Holmes Norton",
+      "first_name": "Eleanor Holmes",
+      "last_name": "Norton",
+      "chamber": "House",
+      "office": "Representative Eleanor Holmes Norton (DC00)",
+      "ticker": "",
+      "asset_description": "Berkshire Hathaway Inc. New",
+      "type": "Sale (Partial)",
+      "transaction_date": "03/05/2025",
+      "disclosure_date": "",
+      "notification_date": "03/11/2025",
+      "amount": "$15,001",
+      "amount_range": "$15,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027950.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Eleanor Holmes Norton",
+      "representative": "Eleanor Holmes Norton",
+      "first_name": "Eleanor Holmes",
+      "last_name": "Norton",
+      "chamber": "House",
+      "office": "Representative Eleanor Holmes Norton (DC00)",
+      "ticker": "",
+      "asset_description": "Berkshire Hathaway Inc. New",
+      "type": "Sale (Partial)",
+      "transaction_date": "10/14/2025",
+      "disclosure_date": "",
+      "notification_date": "10/20/2025",
+      "amount": "$15,001",
+      "amount_range": "$15,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033318.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20027950",

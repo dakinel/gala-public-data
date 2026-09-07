@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Donald W. Norcross",
+      "representative": "Donald W. Norcross",
+      "first_name": "Donald W.",
+      "last_name": "Norcross",
+      "chamber": "House",
+      "office": "Representative Donald W. Norcross (NJ01)",
+      "ticker": "TD",
+      "asset_description": "Toronto Dominion Bank (TD) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "06/04/2024",
+      "disclosure_date": "",
+      "notification_date": "08/07/2025",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030894.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20030894",

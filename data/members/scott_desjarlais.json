@@ -1,5 +1,44 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Scott DesJarlais",
+      "representative": "Scott DesJarlais",
+      "first_name": "Scott",
+      "last_name": "DesJarlais",
+      "chamber": "House",
+      "office": "Representative Scott DesJarlais (TN04)",
+      "ticker": "PEP",
+      "asset_description": "Pepsico, Inc. (PEP) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "10/28/2025",
+      "disclosure_date": "",
+      "notification_date": "10/30/2025",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033490.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Scott DesJarlais",
+      "representative": "Scott DesJarlais",
+      "first_name": "Scott",
+      "last_name": "DesJarlais",
+      "chamber": "House",
+      "office": "Representative Scott DesJarlais (TN04)",
+      "ticker": "",
+      "asset_description": "F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New United Parcel Service, Inc. Common",
+      "type": "Sale (Full)",
+      "transaction_date": "10/28/2025",
+      "disclosure_date": "",
+      "notification_date": "10/30/2025",
+      "amount": "$15,001",
+      "amount_range": "$15,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033490.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20033490",

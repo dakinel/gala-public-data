@@ -1,5 +1,44 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Judy Chu",
+      "representative": "Judy Chu",
+      "first_name": "Judy",
+      "last_name": "Chu",
+      "chamber": "House",
+      "office": "Representative Judy Chu (CA28)",
+      "ticker": "",
+      "asset_description": "SP Astrana Health Inc. - Common Stock",
+      "type": "Purchase",
+      "transaction_date": "08/19/2025",
+      "disclosure_date": "",
+      "notification_date": "08/19/2025",
+      "amount": "$100,001",
+      "amount_range": "$100,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031001.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Judy Chu",
+      "representative": "Judy Chu",
+      "first_name": "Judy",
+      "last_name": "Chu",
+      "chamber": "House",
+      "office": "Representative Judy Chu (CA28)",
+      "ticker": "ASTH",
+      "asset_description": "- (ASTH) [ST] $250,000 F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Stock is solely owned by spouse. SP Astrana Health Inc. - Common Stock",
+      "type": "Sale (Full)",
+      "transaction_date": "08/19/2025",
+      "disclosure_date": "",
+      "notification_date": "08/19/2025",
+      "amount": "$100,001",
+      "amount_range": "$100,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031001.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20031001",

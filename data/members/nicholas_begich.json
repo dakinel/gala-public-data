@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Nicholas Begich",
+      "representative": "Nicholas Begich",
+      "first_name": "Nicholas",
+      "last_name": "Begich",
+      "chamber": "House",
+      "office": "Representative Nicholas Begich (AK00)",
+      "ticker": "",
+      "asset_description": "Listen Ventures IV, LP [HN]",
+      "type": "Purchase",
+      "transaction_date": "05/13/2026",
+      "disclosure_date": "",
+      "notification_date": "05/13/2026",
+      "amount": "$250,001 - $500,000",
+      "amount_range": "$250,001 - $500,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20020055.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20020055",

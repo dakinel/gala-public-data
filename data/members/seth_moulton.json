@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Seth Moulton",
+      "representative": "Seth Moulton",
+      "first_name": "Seth",
+      "last_name": "Moulton",
+      "chamber": "House",
+      "office": "Representative Seth Moulton (MA06)",
+      "ticker": "",
+      "asset_description": "JT Divergent Technologies, Inc. [PS]",
+      "type": "Purchase",
+      "transaction_date": "07/15/2025",
+      "disclosure_date": "",
+      "notification_date": "07/15/2025",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030756.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20030756",

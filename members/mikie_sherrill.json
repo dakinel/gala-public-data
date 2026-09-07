@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Mikie Sherrill",
+      "representative": "Mikie Sherrill",
+      "first_name": "Mikie",
+      "last_name": "Sherrill",
+      "chamber": "House",
+      "office": "Representative Mikie Sherrill (NJ11)",
+      "ticker": "",
+      "asset_description": "JT UBS Group AG Registered Ordinary",
+      "type": "Sale (Partial)",
+      "transaction_date": "03/07/2025",
+      "disclosure_date": "",
+      "notification_date": "03/10/2025",
+      "amount": "$250,001",
+      "amount_range": "$250,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027937.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20027937",

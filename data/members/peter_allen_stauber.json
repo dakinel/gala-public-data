@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Peter Allen Stauber",
+      "representative": "Peter Allen Stauber",
+      "first_name": "Peter Allen",
+      "last_name": "Stauber",
+      "chamber": "House",
+      "office": "Representative Peter Allen Stauber (MN08)",
+      "ticker": "NWL",
+      "asset_description": "Newell Brands Inc. (NWL) [ST]",
+      "type": "Purchase",
+      "transaction_date": "10/27/2025",
+      "disclosure_date": "",
+      "notification_date": "10/28/2025",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033488.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20033488",

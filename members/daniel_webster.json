@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Daniel Webster",
+      "representative": "Daniel Webster",
+      "first_name": "Daniel",
+      "last_name": "Webster",
+      "chamber": "House",
+      "office": "Representative Daniel Webster (FL11)",
+      "ticker": "",
+      "asset_description": "Rexford Industrial Realty, Inc.",
+      "type": "Sale (Full)",
+      "transaction_date": "02/26/2025",
+      "disclosure_date": "",
+      "notification_date": "03/01/2025",
+      "amount": "$15,001",
+      "amount_range": "$15,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034562.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20034562",

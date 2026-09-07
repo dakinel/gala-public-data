@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "John James",
+      "representative": "John James",
+      "first_name": "John",
+      "last_name": "James",
+      "chamber": "House",
+      "office": "Representative John James (MI10)",
+      "ticker": "",
+      "asset_description": "SP Space Exploration Technologies Corp.",
+      "type": "Purchase",
+      "transaction_date": "06/12/2026",
+      "disclosure_date": "",
+      "notification_date": "06/12/2026",
+      "amount": "$15,001",
+      "amount_range": "$15,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034949.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20034949",

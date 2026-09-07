@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Robert B. Aderholt",
+      "representative": "Robert B. Aderholt",
+      "first_name": "Robert B.",
+      "last_name": "Aderholt",
+      "chamber": "House",
+      "office": "Representative Robert B. Aderholt (AL04)",
+      "ticker": "",
+      "asset_description": "GSK plc American Depositary Shares",
+      "type": "Sale (Full)",
+      "transaction_date": "07/28/2025",
+      "disclosure_date": "",
+      "notification_date": "08/11/2025",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032062.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20032062",

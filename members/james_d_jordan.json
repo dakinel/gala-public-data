@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "James D Jordan",
+      "representative": "James D Jordan",
+      "first_name": "James D",
+      "last_name": "Jordan",
+      "chamber": "House",
+      "office": "Representative James D Jordan (OH04)",
+      "ticker": "CBSI",
+      "asset_description": "SP Central Bancshares, Inc. New (CBSI)",
+      "type": "Sale (Full)",
+      "transaction_date": "10/27/2025",
+      "disclosure_date": "",
+      "notification_date": "10/27/2025",
+      "amount": "$50,001",
+      "amount_range": "$50,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033803.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20033803",

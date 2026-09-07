@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Pramila Jayapal",
+      "representative": "Pramila Jayapal",
+      "first_name": "Pramila",
+      "last_name": "Jayapal",
+      "chamber": "House",
+      "office": "Representative Pramila Jayapal (WA07)",
+      "ticker": "NWL",
+      "asset_description": "Newell Brands Inc. (NWL) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "10/31/2023",
+      "disclosure_date": "",
+      "notification_date": "05/13/2024",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034160.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20034160",

@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Robert J. Wittman",
+      "representative": "Robert J. Wittman",
+      "first_name": "Robert J.",
+      "last_name": "Wittman",
+      "chamber": "House",
+      "office": "Representative Robert J. Wittman (VA01)",
+      "ticker": "",
+      "asset_description": "Crown Castle Inc. Common Stock",
+      "type": "Sale (Full)",
+      "transaction_date": "06/30/2026",
+      "disclosure_date": "",
+      "notification_date": "07/02/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034916.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20034916",

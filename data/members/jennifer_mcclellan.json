@@ -1,5 +1,25 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Jennifer McClellan",
+      "representative": "Jennifer McClellan",
+      "first_name": "Jennifer",
+      "last_name": "McClellan",
+      "chamber": "House",
+      "office": "Representative Jennifer McClellan (VA04)",
+      "ticker": "",
+      "asset_description": "Verizon Communications Inc.",
+      "type": "Sale (Partial)",
+      "transaction_date": "04/07/2026",
+      "disclosure_date": "",
+      "notification_date": "04/07/2026",
+      "amount": "$100,001",
+      "amount_range": "$100,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034311.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20034311",

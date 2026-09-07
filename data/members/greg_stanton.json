@@ -1,5 +1,44 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Greg Stanton",
+      "representative": "Greg Stanton",
+      "first_name": "Greg",
+      "last_name": "Stanton",
+      "chamber": "House",
+      "office": "Representative Greg Stanton (AZ04)",
+      "ticker": "",
+      "asset_description": "SP TRULIEVE CANNABIS CORP",
+      "type": "Sale (Partial)",
+      "transaction_date": "05/06/2026",
+      "disclosure_date": "",
+      "notification_date": "05/07/2026",
+      "amount": "$15,001",
+      "amount_range": "$15,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034499.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Greg Stanton",
+      "representative": "Greg Stanton",
+      "first_name": "Greg",
+      "last_name": "Stanton",
+      "chamber": "House",
+      "office": "Representative Greg Stanton (AZ04)",
+      "ticker": "",
+      "asset_description": "SP TRULIEVE CANNABIS CORP",
+      "type": "Sale (Partial)",
+      "transaction_date": "05/28/2026",
+      "disclosure_date": "",
+      "notification_date": "05/28/2026",
+      "amount": "$100,001",
+      "amount_range": "$100,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034717.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20034499",

@@ -1,5 +1,44 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "politician_name": "Victoria Spartz",
+      "representative": "Victoria Spartz",
+      "first_name": "Victoria",
+      "last_name": "Spartz",
+      "chamber": "House",
+      "office": "Representative Victoria Spartz (IN05)",
+      "ticker": "",
+      "asset_description": "SP Simon Property Group, Inc. Common",
+      "type": "Purchase",
+      "transaction_date": "02/03/2025",
+      "disclosure_date": "",
+      "notification_date": "02/07/2025",
+      "amount": "$15,001",
+      "amount_range": "$15,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026754.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Victoria Spartz",
+      "representative": "Victoria Spartz",
+      "first_name": "Victoria",
+      "last_name": "Spartz",
+      "chamber": "House",
+      "office": "Representative Victoria Spartz (IN05)",
+      "ticker": "",
+      "asset_description": "SP Simon Property Group, Inc. Common",
+      "type": "Purchase",
+      "transaction_date": "04/03/2025",
+      "disclosure_date": "",
+      "notification_date": "04/20/2025",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030233.pdf",
+      "comment": ""
+    }
+  ],
   "filings": [
     {
       "doc_id": "20026754",
