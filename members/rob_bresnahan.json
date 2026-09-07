@@ -1,16 +1,168 @@
-[
-  {
-    "politician_name": "Rob Bresnahan",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034044 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034044.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Rob Bresnahan",
+      "representative": "Rob Bresnahan",
+      "first_name": "Rob",
+      "last_name": "Bresnahan",
+      "chamber": "House",
+      "office": "Representative Rob Bresnahan (PA08)",
+      "ticker": "",
+      "asset_description": "US Treasury Note 01/31/27 [GS]",
+      "type": "Purchase",
+      "transaction_date": "02/03/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034044.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Rob Bresnahan",
+      "representative": "Rob Bresnahan",
+      "first_name": "Rob",
+      "last_name": "Bresnahan",
+      "chamber": "House",
+      "office": "Representative Rob Bresnahan (PA08)",
+      "ticker": "",
+      "asset_description": "Pennsylvania State Turnpike Commission Bond [GS]",
+      "type": "Purchase",
+      "transaction_date": "03/06/2026",
+      "disclosure_date": "",
+      "amount": "$50,001 - $100,000",
+      "amount_range": "$50,001 - $100,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034202.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034044",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034044.pdf",
+      "filed_date": "2/22/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034202",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034202.pdf",
+      "filed_date": "3/18/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035216",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035216.pdf",
+      "filed_date": "8/12/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20024346",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20024346.pdf",
+      "filed_date": "2/13/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027923",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027923.pdf",
+      "filed_date": "3/7/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027940",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027940.pdf",
+      "filed_date": "3/10/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029034",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029034.pdf",
+      "filed_date": "3/27/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029055",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029055.pdf",
+      "filed_date": "4/9/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030212",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030212.pdf",
+      "filed_date": "4/22/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030238",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030238.pdf",
+      "filed_date": "4/28/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030291",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030291.pdf",
+      "filed_date": "5/8/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030312",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030312.pdf",
+      "filed_date": "5/11/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030336",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030336.pdf",
+      "filed_date": "5/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030433",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030433.pdf",
+      "filed_date": "5/31/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030482",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030482.pdf",
+      "filed_date": "6/9/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030546",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030546.pdf",
+      "filed_date": "6/23/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030635",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030635.pdf",
+      "filed_date": "7/8/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030857",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030857.pdf",
+      "filed_date": "8/25/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030998",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030998.pdf",
+      "filed_date": "8/29/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032276",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032276.pdf",
+      "filed_date": "10/14/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033574",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033574.pdf",
+      "filed_date": "12/19/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

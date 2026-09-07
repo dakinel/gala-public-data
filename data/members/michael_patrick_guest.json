@@ -1,16 +1,60 @@
-[
-  {
-    "politician_name": "Michael Patrick Guest",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033944 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Michael Patrick Guest",
+      "representative": "Michael Patrick Guest",
+      "first_name": "Michael Patrick",
+      "last_name": "Guest",
+      "chamber": "House",
+      "office": "Representative Michael Patrick Guest (MS03)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "01/09/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Michael Patrick Guest",
+      "representative": "Michael Patrick Guest",
+      "first_name": "Michael Patrick",
+      "last_name": "Guest",
+      "chamber": "House",
+      "office": "Representative Michael Patrick Guest (MS03)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "12/16/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033944",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033944.pdf",
+      "filed_date": "2/17/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035130",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf",
+      "filed_date": "8/14/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20033416",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033416.pdf",
+      "filed_date": "11/19/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

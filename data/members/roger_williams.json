@@ -1,16 +1,54 @@
-[
-  {
-    "politician_name": "Roger Williams",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033783 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033783.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Roger Williams",
+      "representative": "Roger Williams",
+      "first_name": "Roger",
+      "last_name": "Williams",
+      "chamber": "House",
+      "office": "Representative Roger Williams (TX25)",
+      "ticker": "FANG",
+      "asset_description": "Diamondback Energy, Inc. - Common Stock (FANG) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "12/22/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033783.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Roger Williams",
+      "representative": "Roger Williams",
+      "first_name": "Roger",
+      "last_name": "Williams",
+      "chamber": "House",
+      "office": "Representative Roger Williams (TX25)",
+      "ticker": "RTX",
+      "asset_description": "RTX Corporation Common Stock (RTX) [ST]",
+      "type": "Purchase",
+      "transaction_date": "12/22/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033783.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033783",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033783.pdf",
+      "filed_date": "1/15/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20027867",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027867.pdf",
+      "filed_date": "3/1/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

@@ -1,16 +1,168 @@
-[
-  {
-    "politician_name": "Donald Sternoff Beyer",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033714 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033714.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Donald Sternoff Beyer",
+      "representative": "Donald Sternoff Beyer",
+      "first_name": "Donald Sternoff",
+      "last_name": "Beyer",
+      "chamber": "House",
+      "office": "Representative Donald Sternoff Beyer (VA08)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Sale (Full)",
+      "transaction_date": "12/18/2025",
+      "disclosure_date": "",
+      "amount": "$50,001 - $100,000",
+      "amount_range": "$50,001 - $100,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033714.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Donald Sternoff Beyer",
+      "representative": "Donald Sternoff Beyer",
+      "first_name": "Donald Sternoff",
+      "last_name": "Beyer",
+      "chamber": "House",
+      "office": "Representative Donald Sternoff Beyer (VA08)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "01/07/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033903.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Donald Sternoff Beyer",
+      "representative": "Donald Sternoff Beyer",
+      "first_name": "Donald Sternoff",
+      "last_name": "Beyer",
+      "chamber": "House",
+      "office": "Representative Donald Sternoff Beyer (VA08)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "01/15/2026",
+      "disclosure_date": "",
+      "amount": "$50,001 - $100,000",
+      "amount_range": "$50,001 - $100,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033903.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Donald Sternoff Beyer",
+      "representative": "Donald Sternoff Beyer",
+      "first_name": "Donald Sternoff",
+      "last_name": "Beyer",
+      "chamber": "House",
+      "office": "Representative Donald Sternoff Beyer (VA08)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "07/27/2026",
+      "disclosure_date": "",
+      "amount": "$50,001 - $100,000",
+      "amount_range": "$50,001 - $100,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035106.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Donald Sternoff Beyer",
+      "representative": "Donald Sternoff Beyer",
+      "first_name": "Donald Sternoff",
+      "last_name": "Beyer",
+      "chamber": "House",
+      "office": "Representative Donald Sternoff Beyer (VA08)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "08/05/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033714",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033714.pdf",
+      "filed_date": "1/2/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20033903",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033903.pdf",
+      "filed_date": "1/31/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034085",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034085.pdf",
+      "filed_date": "3/1/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034891",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034891.pdf",
+      "filed_date": "7/1/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20035106",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035106.pdf",
+      "filed_date": "8/1/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035349",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035349.pdf",
+      "filed_date": "9/1/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20026517",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026517.pdf",
+      "filed_date": "1/6/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027932",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027932.pdf",
+      "filed_date": "3/8/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030262",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030262.pdf",
+      "filed_date": "5/2/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030746",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030746.pdf",
+      "filed_date": "8/2/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032200",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032200.pdf",
+      "filed_date": "10/2/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033325",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033325.pdf",
+      "filed_date": "11/2/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

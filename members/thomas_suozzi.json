@@ -1,16 +1,126 @@
-[
-  {
-    "politician_name": "Thomas Suozzi",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034188 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034188.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Thomas Suozzi",
+      "representative": "Thomas Suozzi",
+      "first_name": "Thomas",
+      "last_name": "Suozzi",
+      "chamber": "House",
+      "office": "Representative Thomas Suozzi (NY03)",
+      "ticker": "AAPL",
+      "asset_description": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "02/18/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034188.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Thomas Suozzi",
+      "representative": "Thomas Suozzi",
+      "first_name": "Thomas",
+      "last_name": "Suozzi",
+      "chamber": "House",
+      "office": "Representative Thomas Suozzi (NY03)",
+      "ticker": "URI",
+      "asset_description": "United Rentals, Inc. Common Stock (URI) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "02/18/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034188.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Thomas Suozzi",
+      "representative": "Thomas Suozzi",
+      "first_name": "Thomas",
+      "last_name": "Suozzi",
+      "chamber": "House",
+      "office": "Representative Thomas Suozzi (NY03)",
+      "ticker": "",
+      "asset_description": "US Treasury Bill [GS]",
+      "type": "Sale (Full)",
+      "transaction_date": "02/17/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034188.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Thomas Suozzi",
+      "representative": "Thomas Suozzi",
+      "first_name": "Thomas",
+      "last_name": "Suozzi",
+      "chamber": "House",
+      "office": "Representative Thomas Suozzi (NY03)",
+      "ticker": "",
+      "asset_description": "US Treasury Bill [GS]",
+      "type": "Purchase",
+      "transaction_date": "04/16/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034503.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034188",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034188.pdf",
+      "filed_date": "3/17/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034503",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034503.pdf",
+      "filed_date": "5/8/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034747",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034747.pdf",
+      "filed_date": "6/9/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20030188",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030188.pdf",
+      "filed_date": "4/21/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030307",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030307.pdf",
+      "filed_date": "8/13/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033321",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033321.pdf",
+      "filed_date": "10/21/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033394",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033394.pdf",
+      "filed_date": "11/3/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033565",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033565.pdf",
+      "filed_date": "12/1/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

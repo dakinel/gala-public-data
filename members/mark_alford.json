@@ -1,16 +1,72 @@
-[
-  {
-    "politician_name": "Mark Alford",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034201 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Mark Alford",
+      "representative": "Mark Alford",
+      "first_name": "Mark",
+      "last_name": "Alford",
+      "chamber": "House",
+      "office": "Representative Mark Alford (MO04)",
+      "ticker": "AAPL",
+      "asset_description": "Apple Inc. - Common Stock (AAPL) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "03/16/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Mark Alford",
+      "representative": "Mark Alford",
+      "first_name": "Mark",
+      "last_name": "Alford",
+      "chamber": "House",
+      "office": "Representative Mark Alford (MO04)",
+      "ticker": "",
+      "asset_description": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "03/16/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Mark Alford",
+      "representative": "Mark Alford",
+      "first_name": "Mark",
+      "last_name": "Alford",
+      "chamber": "House",
+      "office": "Representative Mark Alford (MO04)",
+      "ticker": "SPYB",
+      "asset_description": "SPDR S&P 500 Buyback ETF (SPYB) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "03/16/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf",
+      "filed_date": "2026-01-01",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "20034201",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf",
+      "filed_date": "3/31/2026",
+      "parse_status": "parsed"
+    }
+  ]
+}

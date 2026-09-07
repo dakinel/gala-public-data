@@ -1,16 +1,90 @@
-[
-  {
-    "politician_name": "Ed Case",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034176 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034176.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Ed Case",
+      "representative": "Ed Case",
+      "first_name": "Ed",
+      "last_name": "Case",
+      "chamber": "House",
+      "office": "Representative Ed Case (HI01)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "08/15/2024",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Ed Case",
+      "representative": "Ed Case",
+      "first_name": "Ed",
+      "last_name": "Case",
+      "chamber": "House",
+      "office": "Representative Ed Case (HI01)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "02/13/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Ed Case",
+      "representative": "Ed Case",
+      "first_name": "Ed",
+      "last_name": "Case",
+      "chamber": "House",
+      "office": "Representative Ed Case (HI01)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "08/14/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034176",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034176.pdf",
+      "filed_date": "3/14/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034221",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034221.pdf",
+      "filed_date": "4/6/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034668",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034668.pdf",
+      "filed_date": "5/31/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20035275",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035275.pdf",
+      "filed_date": "8/18/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20033691",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033691.pdf",
+      "filed_date": "12/24/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

@@ -1,16 +1,119 @@
-[
-  {
-    "politician_name": "Harold Dallas Rogers",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=8221332 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221332.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [],
+  "filings": [
+    {
+      "doc_id": "8221332",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221332.pdf",
+      "filed_date": "2/13/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9115711",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115711.pdf",
+      "filed_date": "3/20/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9115762",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115762.pdf",
+      "filed_date": "4/21/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9115808",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115808.pdf",
+      "filed_date": "5/8/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9116146",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116146.pdf",
+      "filed_date": "6/10/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9116218",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116218.pdf",
+      "filed_date": "7/14/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9116311",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116311.pdf",
+      "filed_date": "8/20/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "8220755",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220755.pdf",
+      "filed_date": "2/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "8220782",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220782.pdf",
+      "filed_date": "3/6/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "8220844",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220844.pdf",
+      "filed_date": "5/1/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "8220958",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220958.pdf",
+      "filed_date": "5/20/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "8221123",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221123.pdf",
+      "filed_date": "6/11/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "9115546",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115546.pdf",
+      "filed_date": "7/23/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "9115623",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115623.pdf",
+      "filed_date": "8/27/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "9115635",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115635.pdf",
+      "filed_date": "9/4/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "9115689",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115689.pdf",
+      "filed_date": "10/16/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "8221223",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221223.pdf",
+      "filed_date": "11/5/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "8221270",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221270.pdf",
+      "filed_date": "12/11/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "8221310",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221310.pdf",
+      "filed_date": "1/16/2026",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

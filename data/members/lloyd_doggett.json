@@ -1,16 +1,198 @@
-[
-  {
-    "politician_name": "Lloyd Doggett",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033713 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033713.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Lloyd Doggett",
+      "representative": "Lloyd Doggett",
+      "first_name": "Lloyd",
+      "last_name": "Doggett",
+      "chamber": "House",
+      "office": "Representative Lloyd Doggett (TX37)",
+      "ticker": "HD",
+      "asset_description": "Home Depot, Inc. (HD) [ST]",
+      "type": "Purchase",
+      "transaction_date": "12/18/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033713.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Lloyd Doggett",
+      "representative": "Lloyd Doggett",
+      "first_name": "Lloyd",
+      "last_name": "Doggett",
+      "chamber": "House",
+      "office": "Representative Lloyd Doggett (TX37)",
+      "ticker": "JNJ",
+      "asset_description": "Johnson & Johnson Common Stock (JNJ) [ST]",
+      "type": "Purchase",
+      "transaction_date": "12/09/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033713.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Lloyd Doggett",
+      "representative": "Lloyd Doggett",
+      "first_name": "Lloyd",
+      "last_name": "Doggett",
+      "chamber": "House",
+      "office": "Representative Lloyd Doggett (TX37)",
+      "ticker": "IBM",
+      "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
+      "type": "Purchase",
+      "transaction_date": "03/10/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034292.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Lloyd Doggett",
+      "representative": "Lloyd Doggett",
+      "first_name": "Lloyd",
+      "last_name": "Doggett",
+      "chamber": "House",
+      "office": "Representative Lloyd Doggett (TX37)",
+      "ticker": "PPG",
+      "asset_description": "PPG Industries, Inc. Common Stock (PPG) [ST]",
+      "type": "Purchase",
+      "transaction_date": "03/12/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034292.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Lloyd Doggett",
+      "representative": "Lloyd Doggett",
+      "first_name": "Lloyd",
+      "last_name": "Doggett",
+      "chamber": "House",
+      "office": "Representative Lloyd Doggett (TX37)",
+      "ticker": "IBM",
+      "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
+      "type": "Purchase",
+      "transaction_date": "06/10/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034923.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Lloyd Doggett",
+      "representative": "Lloyd Doggett",
+      "first_name": "Lloyd",
+      "last_name": "Doggett",
+      "chamber": "House",
+      "office": "Representative Lloyd Doggett (TX37)",
+      "ticker": "PPG",
+      "asset_description": "PPG Industries, Inc. Common Stock (PPG) [ST]",
+      "type": "Purchase",
+      "transaction_date": "06/12/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034923.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033713",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033713.pdf",
+      "filed_date": "1/2/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034132",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034132.pdf",
+      "filed_date": "3/5/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034292",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034292.pdf",
+      "filed_date": "4/6/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034486",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034486.pdf",
+      "filed_date": "5/6/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034712",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034712.pdf",
+      "filed_date": "6/4/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034923",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034923.pdf",
+      "filed_date": "7/6/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035136",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035136.pdf",
+      "filed_date": "8/5/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20026535",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026535.pdf",
+      "filed_date": "1/8/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027935",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027935.pdf",
+      "filed_date": "3/10/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029088",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029088.pdf",
+      "filed_date": "4/7/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030285",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030285.pdf",
+      "filed_date": "5/5/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030454",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030454.pdf",
+      "filed_date": "6/4/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030618",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030618.pdf",
+      "filed_date": "7/7/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030820",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030820.pdf",
+      "filed_date": "8/4/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

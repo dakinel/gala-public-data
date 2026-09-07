@@ -1,16 +1,120 @@
-[
-  {
-    "politician_name": "Virginia Foxx",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033734 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033734.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Virginia Foxx",
+      "representative": "Virginia Foxx",
+      "first_name": "Virginia",
+      "last_name": "Foxx",
+      "chamber": "House",
+      "office": "Representative Virginia Foxx (NC05)",
+      "ticker": "PSA",
+      "asset_description": "Public Storage Common Stock (PSA) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "01/12/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033947.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Virginia Foxx",
+      "representative": "Virginia Foxx",
+      "first_name": "Virginia",
+      "last_name": "Foxx",
+      "chamber": "House",
+      "office": "Representative Virginia Foxx (NC05)",
+      "ticker": "",
+      "asset_description": "Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock (EFC$D) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "06/18/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034895.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033734",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033734.pdf",
+      "filed_date": "1/5/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20033947",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033947.pdf",
+      "filed_date": "2/6/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034095",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034095.pdf",
+      "filed_date": "3/2/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034670",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034670.pdf",
+      "filed_date": "6/2/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034895",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034895.pdf",
+      "filed_date": "7/10/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20026516",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026516.pdf",
+      "filed_date": "1/6/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027876",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027876.pdf",
+      "filed_date": "3/3/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029061",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029061.pdf",
+      "filed_date": "4/4/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030450",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030450.pdf",
+      "filed_date": "6/3/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030587",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030587.pdf",
+      "filed_date": "7/3/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032040",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032040.pdf",
+      "filed_date": "9/8/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032215",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032215.pdf",
+      "filed_date": "10/6/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033553",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033553.pdf",
+      "filed_date": "12/1/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

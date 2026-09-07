@@ -1,16 +1,102 @@
-[
-  {
-    "politician_name": "Dwight Evans",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034379 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034379.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Dwight Evans",
+      "representative": "Dwight Evans",
+      "first_name": "Dwight",
+      "last_name": "Evans",
+      "chamber": "House",
+      "office": "Representative Dwight Evans (PA03)",
+      "ticker": "CVS",
+      "asset_description": "CVS Health Corporation Common Stock (CVS) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "11/21/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Dwight Evans",
+      "representative": "Dwight Evans",
+      "first_name": "Dwight",
+      "last_name": "Evans",
+      "chamber": "House",
+      "office": "Representative Dwight Evans (PA03)",
+      "ticker": "PWR",
+      "asset_description": "Quanta Services, Inc. Common Stock (PWR) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "05/07/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Dwight Evans",
+      "representative": "Dwight Evans",
+      "first_name": "Dwight",
+      "last_name": "Evans",
+      "chamber": "House",
+      "office": "Representative Dwight Evans (PA03)",
+      "ticker": "INTC",
+      "asset_description": "Intel Corporation - Common Stock (INTC) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "06/10/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034851.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034379",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034379.pdf",
+      "filed_date": "4/20/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034556",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf",
+      "filed_date": "5/15/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034851",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034851.pdf",
+      "filed_date": "6/24/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20029062",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029062.pdf",
+      "filed_date": "4/2/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030179",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030179.pdf",
+      "filed_date": "4/17/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033370",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033370.pdf",
+      "filed_date": "10/30/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033667",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033667.pdf",
+      "filed_date": "12/19/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

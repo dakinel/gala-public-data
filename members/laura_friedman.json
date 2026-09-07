@@ -1,16 +1,48 @@
-[
-  {
-    "politician_name": "Laura Friedman",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034355 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034355.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Laura Friedman",
+      "representative": "Laura Friedman",
+      "first_name": "Laura",
+      "last_name": "Friedman",
+      "chamber": "House",
+      "office": "Representative Laura Friedman (CA30)",
+      "ticker": "HOLX",
+      "asset_description": "Hologic, Inc. - Common Stock (HOLX) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "04/08/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034563.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034355",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034355.pdf",
+      "filed_date": "4/17/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034563",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034563.pdf",
+      "filed_date": "5/14/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20032051",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032051.pdf",
+      "filed_date": "9/9/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032250",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032250.pdf",
+      "filed_date": "10/8/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

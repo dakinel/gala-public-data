@@ -1,16 +1,102 @@
-[
-  {
-    "politician_name": "Elizabeth Fletcher",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034413 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034413.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Elizabeth Fletcher",
+      "representative": "Elizabeth Fletcher",
+      "first_name": "Elizabeth",
+      "last_name": "Fletcher",
+      "chamber": "House",
+      "office": "Representative Elizabeth Fletcher (TX07)",
+      "ticker": "AMP",
+      "asset_description": "Ameriprise Financial, Inc. Common Stock (AMP) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "04/08/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034413.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Elizabeth Fletcher",
+      "representative": "Elizabeth Fletcher",
+      "first_name": "Elizabeth",
+      "last_name": "Fletcher",
+      "chamber": "House",
+      "office": "Representative Elizabeth Fletcher (TX07)",
+      "ticker": "ETN",
+      "asset_description": "Eaton Corporation, PLC Ordinary Shares (ETN) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "04/08/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034413.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Elizabeth Fletcher",
+      "representative": "Elizabeth Fletcher",
+      "first_name": "Elizabeth",
+      "last_name": "Fletcher",
+      "chamber": "House",
+      "office": "Representative Elizabeth Fletcher (TX07)",
+      "ticker": "JPM",
+      "asset_description": "JP Morgan Chase & Co. Common Stock (JPM) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "04/08/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034413.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Elizabeth Fletcher",
+      "representative": "Elizabeth Fletcher",
+      "first_name": "Elizabeth",
+      "last_name": "Fletcher",
+      "chamber": "House",
+      "office": "Representative Elizabeth Fletcher (TX07)",
+      "ticker": "MCK",
+      "asset_description": "McKesson Corporation Common Stock (MCK) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "04/08/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034413.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Elizabeth Fletcher",
+      "representative": "Elizabeth Fletcher",
+      "first_name": "Elizabeth",
+      "last_name": "Fletcher",
+      "chamber": "House",
+      "office": "Representative Elizabeth Fletcher (TX07)",
+      "ticker": "NVDA",
+      "asset_description": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "04/08/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034413.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034413",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034413.pdf",
+      "filed_date": "5/1/2026",
+      "parse_status": "parsed"
+    }
+  ]
+}

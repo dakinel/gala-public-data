@@ -1,0 +1,53 @@
+{
+  "trades": [],
+  "filings": [
+    {
+      "doc_id": "20026538",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026538.pdf",
+      "filed_date": "1/13/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20026701",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026701.pdf",
+      "filed_date": "2/6/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027845",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027845.pdf",
+      "filed_date": "2/28/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027900",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027900.pdf",
+      "filed_date": "3/5/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029097",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029097.pdf",
+      "filed_date": "4/8/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030331",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030331.pdf",
+      "filed_date": "5/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030441",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030441.pdf",
+      "filed_date": "6/6/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030579",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030579.pdf",
+      "filed_date": "7/16/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

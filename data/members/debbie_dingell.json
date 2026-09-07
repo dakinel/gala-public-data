@@ -1,16 +1,78 @@
-[
-  {
-    "politician_name": "Debbie Dingell",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033744 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033744.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Debbie Dingell",
+      "representative": "Debbie Dingell",
+      "first_name": "Debbie",
+      "last_name": "Dingell",
+      "chamber": "House",
+      "office": "Representative Debbie Dingell (MI06)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "04/21/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034416.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033744",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033744.pdf",
+      "filed_date": "1/12/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034035",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034035.pdf",
+      "filed_date": "2/23/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034416",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034416.pdf",
+      "filed_date": "4/28/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034702",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034702.pdf",
+      "filed_date": "6/5/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034960",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034960.pdf",
+      "filed_date": "7/15/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20035048",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035048.pdf",
+      "filed_date": "7/22/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20026647",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026647.pdf",
+      "filed_date": "1/27/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029053",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029053.pdf",
+      "filed_date": "4/2/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029105",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029105.pdf",
+      "filed_date": "12/6/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

@@ -1,16 +1,324 @@
-[
-  {
-    "politician_name": "Richard W. Allen",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033751 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033751.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "12/12/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033751.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "01/14/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033945.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "US Treasury Note 3.5% DUE 01/31/28 (91282CGH8) [GS]",
+      "type": "Purchase",
+      "transaction_date": "01/26/2026",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033945.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "02/18/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034133.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "02/19/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034133.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "04/15/2026",
+      "disclosure_date": "",
+      "amount": "$50,001 - $100,000",
+      "amount_range": "$50,001 - $100,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034473.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "04/16/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034473.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "04/16/2026",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034473.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "05/08/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034740.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "US Treasury Note 4% DUE 5/31/30 (91282CNG2) [GS]",
+      "type": "Purchase",
+      "transaction_date": "05/19/2026",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034740.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "07/14/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035260.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033751.pdf",
+      "filed_date": "2026-01-01",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "20033751",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033751.pdf",
+      "filed_date": "1/15/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20033945",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033945.pdf",
+      "filed_date": "2/17/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034133",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034133.pdf",
+      "filed_date": "3/11/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034315",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034315.pdf",
+      "filed_date": "5/4/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034473",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034473.pdf",
+      "filed_date": "6/5/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034740",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034740.pdf",
+      "filed_date": "6/16/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034945",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034945.pdf",
+      "filed_date": "7/15/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20035260",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035260.pdf",
+      "filed_date": "8/18/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20026537",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026537.pdf",
+      "filed_date": "1/16/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20026727",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026727.pdf",
+      "filed_date": "2/20/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027927",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027927.pdf",
+      "filed_date": "3/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030316",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030316.pdf",
+      "filed_date": "5/15/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030502",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030502.pdf",
+      "filed_date": "6/18/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030608",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030608.pdf",
+      "filed_date": "7/15/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030850",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030850.pdf",
+      "filed_date": "8/11/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032052",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032052.pdf",
+      "filed_date": "9/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032204",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032204.pdf",
+      "filed_date": "10/7/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033415",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033415.pdf",
+      "filed_date": "11/13/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033589",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033589.pdf",
+      "filed_date": "12/9/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

@@ -1,16 +1,168 @@
-[
-  {
-    "politician_name": "Jefferson Shreve",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033705 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033705.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Jefferson Shreve",
+      "representative": "Jefferson Shreve",
+      "first_name": "Jefferson",
+      "last_name": "Shreve",
+      "chamber": "House",
+      "office": "Representative Jefferson Shreve (IN06)",
+      "ticker": "",
+      "asset_description": "Prudential RILA - 10% Buffer 3-year Alliance Bernstein 500 Plus Index [VA]",
+      "type": "Purchase",
+      "transaction_date": "12/29/2025",
+      "disclosure_date": "",
+      "amount": "$5,000,001 - $25,000,000",
+      "amount_range": "$5,000,001 - $25,000,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033705.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Jefferson Shreve",
+      "representative": "Jefferson Shreve",
+      "first_name": "Jefferson",
+      "last_name": "Shreve",
+      "chamber": "House",
+      "office": "Representative Jefferson Shreve (IN06)",
+      "ticker": "",
+      "asset_description": "JP Morgan 3-year one-time callable barrier note [CS]",
+      "type": "Purchase",
+      "transaction_date": "12/30/2025",
+      "disclosure_date": "",
+      "amount": "$5,000,001 - $25,000,000",
+      "amount_range": "$5,000,001 - $25,000,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033709.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Jefferson Shreve",
+      "representative": "Jefferson Shreve",
+      "first_name": "Jefferson",
+      "last_name": "Shreve",
+      "chamber": "House",
+      "office": "Representative Jefferson Shreve (IN06)",
+      "ticker": "",
+      "asset_description": "Brighthouse Buffered Annuity S&P 500 Trigger Rate [VA]",
+      "type": "Sale (Full)",
+      "transaction_date": "02/09/2026",
+      "disclosure_date": "",
+      "amount": "$5,000,001 - $25,000,000",
+      "amount_range": "$5,000,001 - $25,000,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034084.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Jefferson Shreve",
+      "representative": "Jefferson Shreve",
+      "first_name": "Jefferson",
+      "last_name": "Shreve",
+      "chamber": "House",
+      "office": "Representative Jefferson Shreve (IN06)",
+      "ticker": "",
+      "asset_description": "Prudential RILA - 10% Buffer 3-year S&P 500 Index [VA]",
+      "type": "Purchase",
+      "transaction_date": "02/17/2026",
+      "disclosure_date": "",
+      "amount": "$1,000,001 - $5,000,000",
+      "amount_range": "$1,000,001 - $5,000,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034084.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Jefferson Shreve",
+      "representative": "Jefferson Shreve",
+      "first_name": "Jefferson",
+      "last_name": "Shreve",
+      "chamber": "House",
+      "office": "Representative Jefferson Shreve (IN06)",
+      "ticker": "",
+      "asset_description": "Morgan Stanley 37-Month One-time Callable Note INDU/SPX - May 2026 [CS]",
+      "type": "Purchase",
+      "transaction_date": "05/20/2026",
+      "disclosure_date": "",
+      "amount": "$1,000,001 - $5,000,000",
+      "amount_range": "$1,000,001 - $5,000,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034653.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033705",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033705.pdf",
+      "filed_date": "1/1/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20033709",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033709.pdf",
+      "filed_date": "1/2/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034084",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034084.pdf",
+      "filed_date": "3/14/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034653",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034653.pdf",
+      "filed_date": "6/6/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20026770",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026770.pdf",
+      "filed_date": "2/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027879",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027879.pdf",
+      "filed_date": "3/9/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029038",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029038.pdf",
+      "filed_date": "4/11/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030231",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030231.pdf",
+      "filed_date": "5/8/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030387",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030387.pdf",
+      "filed_date": "6/22/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033575",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033575.pdf",
+      "filed_date": "12/14/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033699",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033699.pdf",
+      "filed_date": "12/30/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033700",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033700.pdf",
+      "filed_date": "12/31/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

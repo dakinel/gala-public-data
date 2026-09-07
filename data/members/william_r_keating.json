@@ -1,16 +1,192 @@
-[
-  {
-    "politician_name": "William R. Keating",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033946 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033946.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "William R. Keating",
+      "representative": "William R. Keating",
+      "first_name": "William R.",
+      "last_name": "Keating",
+      "chamber": "House",
+      "office": "Representative William R. Keating (MA09)",
+      "ticker": "",
+      "asset_description": "UNITED STATES TREAS BILLS ZERO CPN 0.00000% 03/24/2026 [GS]",
+      "type": "Purchase",
+      "transaction_date": "01/26/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033946.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "William R. Keating",
+      "representative": "William R. Keating",
+      "first_name": "William R.",
+      "last_name": "Keating",
+      "chamber": "House",
+      "office": "Representative William R. Keating (MA09)",
+      "ticker": "",
+      "asset_description": "VMWARE LLC NOTE CALL MAKE WHOLE 4.70000% 05/15/2030 [CS]",
+      "type": "Purchase",
+      "transaction_date": "02/04/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034068.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "William R. Keating",
+      "representative": "William R. Keating",
+      "first_name": "William R.",
+      "last_name": "Keating",
+      "chamber": "House",
+      "office": "Representative William R. Keating (MA09)",
+      "ticker": "",
+      "asset_description": "CHUBB INA HLDGS INC NOTE CALL MAKE WHOLE 5.00000% 03/15/2034 [CS]",
+      "type": "Purchase",
+      "transaction_date": "02/20/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034177.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "William R. Keating",
+      "representative": "William R. Keating",
+      "first_name": "William R.",
+      "last_name": "Keating",
+      "chamber": "House",
+      "office": "Representative William R. Keating (MA09)",
+      "ticker": "",
+      "asset_description": "NORTHROP GRUMMAN CORP NOTE 4.40000% 05/01/2030 CALL MAKE WHOLE [CS]",
+      "type": "Purchase",
+      "transaction_date": "05/08/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034417.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "William R. Keating",
+      "representative": "William R. Keating",
+      "first_name": "William R.",
+      "last_name": "Keating",
+      "chamber": "House",
+      "office": "Representative William R. Keating (MA09)",
+      "ticker": "",
+      "asset_description": "THE CAMPBELLS COMPANY NOTE 5.40000% 03/21/2034 CALL MAKE WHOLE [CS]",
+      "type": "Sale (Full)",
+      "transaction_date": "05/06/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034417.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "William R. Keating",
+      "representative": "William R. Keating",
+      "first_name": "William R.",
+      "last_name": "Keating",
+      "chamber": "House",
+      "office": "Representative William R. Keating (MA09)",
+      "ticker": "",
+      "asset_description": "HCA INC. NOTE CALL MAKE WHOLE 5.62500% 09/01/2028 [CS]",
+      "type": "Purchase",
+      "transaction_date": "06/30/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034898.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033946",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033946.pdf",
+      "filed_date": "2/6/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034068",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034068.pdf",
+      "filed_date": "2/26/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034177",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034177.pdf",
+      "filed_date": "3/16/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034307",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034307.pdf",
+      "filed_date": "4/13/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034417",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034417.pdf",
+      "filed_date": "5/18/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034898",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034898.pdf",
+      "filed_date": "8/13/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035293",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035293.pdf",
+      "filed_date": "8/25/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20026556",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026556.pdf",
+      "filed_date": "1/15/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027837",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027837.pdf",
+      "filed_date": "2/25/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20028007",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20028007.pdf",
+      "filed_date": "3/21/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030174",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030174.pdf",
+      "filed_date": "6/23/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20031014",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031014.pdf",
+      "filed_date": "9/4/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033628",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033628.pdf",
+      "filed_date": "12/16/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

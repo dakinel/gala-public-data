@@ -1,16 +1,252 @@
-[
-  {
-    "politician_name": "Julie Johnson",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033789 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033789.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Julie Johnson",
+      "representative": "Julie Johnson",
+      "first_name": "Julie",
+      "last_name": "Johnson",
+      "chamber": "House",
+      "office": "Representative Julie Johnson (TX32)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Sale (Full)",
+      "transaction_date": "12/18/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033789.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Julie Johnson",
+      "representative": "Julie Johnson",
+      "first_name": "Julie",
+      "last_name": "Johnson",
+      "chamber": "House",
+      "office": "Representative Julie Johnson (TX32)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Sale (Full)",
+      "transaction_date": "12/09/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033789.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Julie Johnson",
+      "representative": "Julie Johnson",
+      "first_name": "Julie",
+      "last_name": "Johnson",
+      "chamber": "House",
+      "office": "Representative Julie Johnson (TX32)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Sale (Full)",
+      "transaction_date": "05/12/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034706.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Julie Johnson",
+      "representative": "Julie Johnson",
+      "first_name": "Julie",
+      "last_name": "Johnson",
+      "chamber": "House",
+      "office": "Representative Julie Johnson (TX32)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Sale (Full)",
+      "transaction_date": "09/23/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Julie Johnson",
+      "representative": "Julie Johnson",
+      "first_name": "Julie",
+      "last_name": "Johnson",
+      "chamber": "House",
+      "office": "Representative Julie Johnson (TX32)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "10/30/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Julie Johnson",
+      "representative": "Julie Johnson",
+      "first_name": "Julie",
+      "last_name": "Johnson",
+      "chamber": "House",
+      "office": "Representative Julie Johnson (TX32)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "10/21/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Julie Johnson",
+      "representative": "Julie Johnson",
+      "first_name": "Julie",
+      "last_name": "Johnson",
+      "chamber": "House",
+      "office": "Representative Julie Johnson (TX32)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "12/02/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Julie Johnson",
+      "representative": "Julie Johnson",
+      "first_name": "Julie",
+      "last_name": "Johnson",
+      "chamber": "House",
+      "office": "Representative Julie Johnson (TX32)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Sale (Full)",
+      "transaction_date": "10/03/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Julie Johnson",
+      "representative": "Julie Johnson",
+      "first_name": "Julie",
+      "last_name": "Johnson",
+      "chamber": "House",
+      "office": "Representative Julie Johnson (TX32)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "12/08/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033789",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033789.pdf",
+      "filed_date": "1/15/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034706",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034706.pdf",
+      "filed_date": "6/12/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035035",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
+      "filed_date": "8/5/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20026762",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026762.pdf",
+      "filed_date": "2/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027936",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027936.pdf",
+      "filed_date": "3/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029064",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029064.pdf",
+      "filed_date": "4/14/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030296",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030296.pdf",
+      "filed_date": "5/14/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030474",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030474.pdf",
+      "filed_date": "6/13/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030647",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030647.pdf",
+      "filed_date": "7/14/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030909",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030909.pdf",
+      "filed_date": "8/14/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032066",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032066.pdf",
+      "filed_date": "9/11/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032242",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032242.pdf",
+      "filed_date": "10/7/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033420",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033420.pdf",
+      "filed_date": "11/14/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033611",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033611.pdf",
+      "filed_date": "12/11/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

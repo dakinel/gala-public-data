@@ -1,16 +1,48 @@
-[
-  {
-    "politician_name": "Lori Trahan",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034414 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Lori Trahan",
+      "representative": "Lori Trahan",
+      "first_name": "Lori",
+      "last_name": "Trahan",
+      "chamber": "House",
+      "office": "Representative Lori Trahan (MA03)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "04/15/2026",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Lori Trahan",
+      "representative": "Lori Trahan",
+      "first_name": "Lori",
+      "last_name": "Trahan",
+      "chamber": "House",
+      "office": "Representative Lori Trahan (MA03)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "04/15/2026",
+      "disclosure_date": "",
+      "amount": "$250,001 - $500,000",
+      "amount_range": "$250,001 - $500,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034414",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034414.pdf",
+      "filed_date": "4/30/2026",
+      "parse_status": "parsed"
+    }
+  ]
+}

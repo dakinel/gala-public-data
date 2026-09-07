@@ -1,16 +1,60 @@
-[
-  {
-    "politician_name": "Susie Lee",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034552 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034552.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Susie Lee",
+      "representative": "Susie Lee",
+      "first_name": "Susie",
+      "last_name": "Lee",
+      "chamber": "House",
+      "office": "Representative Susie Lee (NV03)",
+      "ticker": "FLL",
+      "asset_description": "Full House Resorts, Inc. - Common Stock (FLL) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "07/01/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034790.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034552",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034552.pdf",
+      "filed_date": "6/4/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034790",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034790.pdf",
+      "filed_date": "7/8/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20027805",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027805.pdf",
+      "filed_date": "3/14/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029082",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029082.pdf",
+      "filed_date": "4/11/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030558",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030558.pdf",
+      "filed_date": "7/10/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030822",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030822.pdf",
+      "filed_date": "8/22/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

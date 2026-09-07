@@ -1,16 +1,114 @@
-[
-  {
-    "politician_name": "Ann Wagner",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033718 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033718.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Ann Wagner",
+      "representative": "Ann Wagner",
+      "first_name": "Ann",
+      "last_name": "Wagner",
+      "chamber": "House",
+      "office": "Representative Ann Wagner (MO02)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "12/05/2025",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033718.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Ann Wagner",
+      "representative": "Ann Wagner",
+      "first_name": "Ann",
+      "last_name": "Wagner",
+      "chamber": "House",
+      "office": "Representative Ann Wagner (MO02)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "12/18/2025",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033718.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Ann Wagner",
+      "representative": "Ann Wagner",
+      "first_name": "Ann",
+      "last_name": "Wagner",
+      "chamber": "House",
+      "office": "Representative Ann Wagner (MO02)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Sale (Full)",
+      "transaction_date": "04/10/2026",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034462.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Ann Wagner",
+      "representative": "Ann Wagner",
+      "first_name": "Ann",
+      "last_name": "Wagner",
+      "chamber": "House",
+      "office": "Representative Ann Wagner (MO02)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Sale (Full)",
+      "transaction_date": "06/10/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034915.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033718",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033718.pdf",
+      "filed_date": "1/2/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034462",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034462.pdf",
+      "filed_date": "5/4/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034915",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034915.pdf",
+      "filed_date": "7/2/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "8220765",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220765.pdf",
+      "filed_date": "2/14/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "8220836",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220836.pdf",
+      "filed_date": "4/16/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033403",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033403.pdf",
+      "filed_date": "11/4/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

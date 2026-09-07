@@ -1,16 +1,84 @@
-[
-  {
-    "politician_name": "Lloyd K. Smucker",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20019182 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Lloyd K. Smucker",
+      "representative": "Lloyd K. Smucker",
+      "first_name": "Lloyd K.",
+      "last_name": "Smucker",
+      "chamber": "House",
+      "office": "Representative Lloyd K. Smucker (PA11)",
+      "ticker": "FULT",
+      "asset_description": "Fulton Financial Corporation - Common Stock (FULT) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "04/23/2026",
+      "disclosure_date": "",
+      "amount": "$50,001 - $100,000",
+      "amount_range": "$50,001 - $100,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Lloyd K. Smucker",
+      "representative": "Lloyd K. Smucker",
+      "first_name": "Lloyd K.",
+      "last_name": "Smucker",
+      "chamber": "House",
+      "office": "Representative Lloyd K. Smucker (PA11)",
+      "ticker": "FULT",
+      "asset_description": "Fulton Financial Corporation - Common Stock (FULT) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "04/17/2026",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Lloyd K. Smucker",
+      "representative": "Lloyd K. Smucker",
+      "first_name": "Lloyd K.",
+      "last_name": "Smucker",
+      "chamber": "House",
+      "office": "Representative Lloyd K. Smucker (PA11)",
+      "ticker": "TFC",
+      "asset_description": "Truist Financial Corporation Common Stock (TFC) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "04/17/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Lloyd K. Smucker",
+      "representative": "Lloyd K. Smucker",
+      "first_name": "Lloyd K.",
+      "last_name": "Smucker",
+      "chamber": "House",
+      "office": "Representative Lloyd K. Smucker (PA11)",
+      "ticker": "WFC",
+      "asset_description": "Wells Fargo & Company Common Stock (WFC) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "04/23/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20019182",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20019182.pdf",
+      "filed_date": "4/30/2026",
+      "parse_status": "parsed"
+    }
+  ]
+}

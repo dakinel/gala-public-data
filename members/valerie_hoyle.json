@@ -1,16 +1,23 @@
-[
-  {
-    "politician_name": "Valerie Hoyle",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034581 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034581.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [],
+  "filings": [
+    {
+      "doc_id": "20034581",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034581.pdf",
+      "filed_date": "5/15/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20032070",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032070.pdf",
+      "filed_date": "9/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032211",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032211.pdf",
+      "filed_date": "10/10/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

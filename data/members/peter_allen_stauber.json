@@ -1,0 +1,11 @@
+{
+  "trades": [],
+  "filings": [
+    {
+      "doc_id": "20033488",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033488.pdf",
+      "filed_date": "11/21/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

@@ -1,16 +1,498 @@
-[
-  {
-    "politician_name": "Kelly Louise Morrison",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033830 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033830.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "CogniChip, Inc. [OI]",
+      "type": "Purchase",
+      "transaction_date": "01/20/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033928.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "Sygaldry Technologies, Inc. [OI]",
+      "type": "Purchase",
+      "transaction_date": "01/29/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033928.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "Rhoda AI [OI]",
+      "type": "Purchase",
+      "transaction_date": "02/20/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034056.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "HM Companies LLC [OI]",
+      "type": "Purchase",
+      "transaction_date": "02/11/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034082.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "AJG",
+      "asset_description": "Arthur J. Gallagher & Co. Common Stock (AJG) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "03/08/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034156.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "Saronic Technologies [OI]",
+      "type": "Purchase",
+      "transaction_date": "03/09/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034156.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "MICC",
+      "asset_description": "The Magnum Ice Cream Company N.V. Ordinary Shares (MICC) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "03/08/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034156.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "Andersen Corporation [OI]",
+      "type": "Sale (Partial)",
+      "transaction_date": "03/15/2025",
+      "disclosure_date": "",
+      "amount": "$250,001 - $500,000",
+      "amount_range": "$250,001 - $500,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "Andersen Corporation [OI]",
+      "type": "Sale (Partial)",
+      "transaction_date": "09/15/2025",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "Andersen Corporation [OI]",
+      "type": "Sale (Partial)",
+      "transaction_date": "01/20/2026",
+      "disclosure_date": "",
+      "amount": "$250,001 - $500,000",
+      "amount_range": "$250,001 - $500,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "Cavall [OI]",
+      "type": "Purchase",
+      "transaction_date": "12/22/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "StarCloud [OI]",
+      "type": "Purchase",
+      "transaction_date": "03/15/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "04/14/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034300.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "04/17/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034300.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Sale (Full)",
+      "transaction_date": "05/04/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034300.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "ACN",
+      "asset_description": "Accenture plc Class A Ordinary Shares (ACN) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "08/11/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "08/11/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Kelly Louise Morrison",
+      "representative": "Kelly Louise Morrison",
+      "first_name": "Kelly Louise",
+      "last_name": "Morrison",
+      "chamber": "House",
+      "office": "Representative Kelly Louise Morrison (MN03)",
+      "ticker": "MBGL",
+      "asset_description": "Mobility Global Inc. Common Stock (MBGL) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "08/11/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033830",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033830.pdf",
+      "filed_date": "1/20/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20033928",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033928.pdf",
+      "filed_date": "2/4/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20033989",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033989.pdf",
+      "filed_date": "2/12/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034056",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034056.pdf",
+      "filed_date": "2/25/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034082",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034082.pdf",
+      "filed_date": "3/2/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034102",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034102.pdf",
+      "filed_date": "3/3/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034123",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034123.pdf",
+      "filed_date": "3/5/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034156",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034156.pdf",
+      "filed_date": "3/10/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034213",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034213.pdf",
+      "filed_date": "4/2/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034300",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034300.pdf",
+      "filed_date": "5/5/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034520",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034520.pdf",
+      "filed_date": "5/21/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034806",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034806.pdf",
+      "filed_date": "7/9/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034972",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034972.pdf",
+      "filed_date": "7/30/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20035244",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035244.pdf",
+      "filed_date": "8/25/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20026695",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026695.pdf",
+      "filed_date": "2/2/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027907",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027907.pdf",
+      "filed_date": "3/10/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027951",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027951.pdf",
+      "filed_date": "3/11/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029067",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029067.pdf",
+      "filed_date": "4/4/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029121",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029121.pdf",
+      "filed_date": "4/11/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030267",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030267.pdf",
+      "filed_date": "5/5/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030313",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030313.pdf",
+      "filed_date": "5/13/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030448",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030448.pdf",
+      "filed_date": "6/4/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030475",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030475.pdf",
+      "filed_date": "6/18/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030802",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030802.pdf",
+      "filed_date": "8/3/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030893",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030893.pdf",
+      "filed_date": "8/19/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032061",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032061.pdf",
+      "filed_date": "9/11/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033425",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033425.pdf",
+      "filed_date": "11/6/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033651",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033651.pdf",
+      "filed_date": "12/19/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

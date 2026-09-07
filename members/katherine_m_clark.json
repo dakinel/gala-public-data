@@ -1,16 +1,60 @@
-[
-  {
-    "politician_name": "Katherine M. Clark",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034892 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034892.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Katherine M. Clark",
+      "representative": "Katherine M. Clark",
+      "first_name": "Katherine M.",
+      "last_name": "Clark",
+      "chamber": "House",
+      "office": "Representative Katherine M. Clark (MA05)",
+      "ticker": "",
+      "asset_description": "UNITED STATES TREAS SER AF- 2027; 4.125%; Due 10/31/2027 [GS]",
+      "type": "Purchase",
+      "transaction_date": "06/16/2026",
+      "disclosure_date": "",
+      "amount": "$50,001 - $100,000",
+      "amount_range": "$50,001 - $100,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034892.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Katherine M. Clark",
+      "representative": "Katherine M. Clark",
+      "first_name": "Katherine M.",
+      "last_name": "Clark",
+      "chamber": "House",
+      "office": "Representative Katherine M. Clark (MA05)",
+      "ticker": "",
+      "asset_description": "UNITED STATES TREAS SER AJ- 2028; 4.25%; Due 01/15/2028 [GS]",
+      "type": "Purchase",
+      "transaction_date": "06/16/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034892.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034892",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034892.pdf",
+      "filed_date": "7/14/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20032205",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032205.pdf",
+      "filed_date": "10/3/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033393",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033393.pdf",
+      "filed_date": "11/6/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

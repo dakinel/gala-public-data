@@ -1,16 +1,36 @@
-[
-  {
-    "politician_name": "Shri Thanedar",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033910 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Shri Thanedar",
+      "representative": "Shri Thanedar",
+      "first_name": "Shri",
+      "last_name": "Thanedar",
+      "chamber": "House",
+      "office": "Representative Shri Thanedar (MI13)",
+      "ticker": "MSTR",
+      "asset_description": "Strategy Inc - Class A Common Stock (MSTR) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "10/21/2025",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033910",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033910.pdf",
+      "filed_date": "8/13/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20030869",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030869.pdf",
+      "filed_date": "8/11/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

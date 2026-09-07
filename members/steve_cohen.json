@@ -1,16 +1,192 @@
-[
-  {
-    "politician_name": "Steve Cohen",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033754 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033754.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Steve Cohen",
+      "representative": "Steve Cohen",
+      "first_name": "Steve",
+      "last_name": "Cohen",
+      "chamber": "House",
+      "office": "Representative Steve Cohen (TN09)",
+      "ticker": "RFI",
+      "asset_description": "Cohen & Steers Total Return Realty Fund, Inc. Common Stock (RFI) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "12/17/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033754.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Steve Cohen",
+      "representative": "Steve Cohen",
+      "first_name": "Steve",
+      "last_name": "Cohen",
+      "chamber": "House",
+      "office": "Representative Steve Cohen (TN09)",
+      "ticker": "GS",
+      "asset_description": "Goldman Sachs Group, Inc. (GS) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "12/17/2025",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033754.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Steve Cohen",
+      "representative": "Steve Cohen",
+      "first_name": "Steve",
+      "last_name": "Cohen",
+      "chamber": "House",
+      "office": "Representative Steve Cohen (TN09)",
+      "ticker": "NOC",
+      "asset_description": "Northrop Grumman Corporation Common Stock (NOC) [ST]",
+      "type": "Sale (Partial)",
+      "transaction_date": "12/29/2025",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033813.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Steve Cohen",
+      "representative": "Steve Cohen",
+      "first_name": "Steve",
+      "last_name": "Cohen",
+      "chamber": "House",
+      "office": "Representative Steve Cohen (TN09)",
+      "ticker": "",
+      "asset_description": "U.S. Tres Bill Int. Rate 0.00% Mat 8/5/2027 [GS]",
+      "type": "Purchase",
+      "transaction_date": "08/06/2026",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035235.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Steve Cohen",
+      "representative": "Steve Cohen",
+      "first_name": "Steve",
+      "last_name": "Cohen",
+      "chamber": "House",
+      "office": "Representative Steve Cohen (TN09)",
+      "ticker": "",
+      "asset_description": "US Treas Bills Int Rate 0.000% MAT 8/5/2027 [GS]",
+      "type": "Purchase",
+      "transaction_date": "08/21/2026",
+      "disclosure_date": "",
+      "amount": "$250,001 - $500,000",
+      "amount_range": "$250,001 - $500,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035350.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033754",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033754.pdf",
+      "filed_date": "1/14/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20033813",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033813.pdf",
+      "filed_date": "1/26/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20033889",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033889.pdf",
+      "filed_date": "2/9/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034119",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034119.pdf",
+      "filed_date": "3/5/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034167",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034167.pdf",
+      "filed_date": "3/26/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034368",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034368.pdf",
+      "filed_date": "4/28/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034452",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034452.pdf",
+      "filed_date": "5/15/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034589",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034589.pdf",
+      "filed_date": "5/20/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034796",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034796.pdf",
+      "filed_date": "6/17/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20035235",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035235.pdf",
+      "filed_date": "8/17/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035350",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035350.pdf",
+      "filed_date": "9/1/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20026548",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026548.pdf",
+      "filed_date": "1/10/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20028025",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20028025.pdf",
+      "filed_date": "4/1/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030416",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030416.pdf",
+      "filed_date": "5/28/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20031011",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031011.pdf",
+      "filed_date": "9/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033572",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033572.pdf",
+      "filed_date": "12/16/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

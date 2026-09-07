@@ -1,16 +1,29 @@
-[
-  {
-    "politician_name": "Adrian Smith",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20035067 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035067.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [],
+  "filings": [
+    {
+      "doc_id": "20035067",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035067.pdf",
+      "filed_date": "7/27/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "8220764",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220764.pdf",
+      "filed_date": "2/13/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "9115549",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115549.pdf",
+      "filed_date": "7/24/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "8221238",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221238.pdf",
+      "filed_date": "11/14/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

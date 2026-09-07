@@ -1,16 +1,78 @@
-[
-  {
-    "politician_name": "Lisa McClain",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033736 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033736.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Lisa McClain",
+      "representative": "Lisa McClain",
+      "first_name": "Lisa",
+      "last_name": "McClain",
+      "chamber": "House",
+      "office": "Representative Lisa McClain (MI09)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "02/06/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034105.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033736",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033736.pdf",
+      "filed_date": "1/7/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20033964",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033964.pdf",
+      "filed_date": "2/11/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034105",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034105.pdf",
+      "filed_date": "3/4/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035131",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035131.pdf",
+      "filed_date": "8/5/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20030891",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030891.pdf",
+      "filed_date": "8/13/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030932",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030932.pdf",
+      "filed_date": "9/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032129",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032129.pdf",
+      "filed_date": "10/22/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "8221212",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221212.pdf",
+      "filed_date": "10/23/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033446",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033446.pdf",
+      "filed_date": "11/21/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

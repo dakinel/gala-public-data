@@ -1,0 +1,23 @@
+{
+  "trades": [],
+  "filings": [
+    {
+      "doc_id": "20018054",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20018054.pdf",
+      "filed_date": "1/10/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20026750",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026750.pdf",
+      "filed_date": "2/11/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030716",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030716.pdf",
+      "filed_date": "8/11/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

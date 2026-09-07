@@ -1,16 +1,41 @@
-[
-  {
-    "politician_name": "Pete Sessions",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033500 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033500.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [],
+  "filings": [
+    {
+      "doc_id": "20033500",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033500.pdf",
+      "filed_date": "3/9/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20035068",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035068.pdf",
+      "filed_date": "7/24/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20030544",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030544.pdf",
+      "filed_date": "6/21/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032080",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032080.pdf",
+      "filed_date": "9/15/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033330",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033330.pdf",
+      "filed_date": "10/22/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033427",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033427.pdf",
+      "filed_date": "11/7/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

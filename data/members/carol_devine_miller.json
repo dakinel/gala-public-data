@@ -1,16 +1,36 @@
-[
-  {
-    "politician_name": "Carol Devine Miller",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033779 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Carol Devine Miller",
+      "representative": "Carol Devine Miller",
+      "first_name": "Carol Devine",
+      "last_name": "Miller",
+      "chamber": "House",
+      "office": "Representative Carol Devine Miller (WV01)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "03/10/2025",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033779",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
+      "filed_date": "8/13/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20029135",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029135.pdf",
+      "filed_date": "4/11/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

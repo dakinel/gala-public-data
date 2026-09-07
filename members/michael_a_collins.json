@@ -1,16 +1,96 @@
-[
-  {
-    "politician_name": "Michael A. Collins",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033840 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033840.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Michael A. Collins",
+      "representative": "Michael A. Collins",
+      "first_name": "Michael A.",
+      "last_name": "Collins",
+      "chamber": "House",
+      "office": "Representative Michael A. Collins (GA10)",
+      "ticker": "",
+      "asset_description": "usdc [CT]",
+      "type": "Sale (Full)",
+      "transaction_date": "01/12/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033840.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033840",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033840.pdf",
+      "filed_date": "1/20/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20026489",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026489.pdf",
+      "filed_date": "1/1/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20026696",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026696.pdf",
+      "filed_date": "2/2/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027820",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027820.pdf",
+      "filed_date": "2/21/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027962",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027962.pdf",
+      "filed_date": "3/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029130",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029130.pdf",
+      "filed_date": "4/11/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029131",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029131.pdf",
+      "filed_date": "5/1/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030439",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030439.pdf",
+      "filed_date": "6/2/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030466",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030466.pdf",
+      "filed_date": "6/5/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030622",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030622.pdf",
+      "filed_date": "7/7/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030692",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030692.pdf",
+      "filed_date": "7/19/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20031007",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031007.pdf",
+      "filed_date": "9/2/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

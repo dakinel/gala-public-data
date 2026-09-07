@@ -1,16 +1,30 @@
-[
-  {
-    "politician_name": "Doris O. Matsui",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033695 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033695.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Doris O. Matsui",
+      "representative": "Doris O. Matsui",
+      "first_name": "Doris O.",
+      "last_name": "Matsui",
+      "chamber": "House",
+      "office": "Representative Doris O. Matsui (CA07)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "12/15/2025",
+      "disclosure_date": "",
+      "amount": "Unknown",
+      "amount_range": "Unknown",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033695.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033695",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033695.pdf",
+      "filed_date": "1/9/2026",
+      "parse_status": "parsed"
+    }
+  ]
+}

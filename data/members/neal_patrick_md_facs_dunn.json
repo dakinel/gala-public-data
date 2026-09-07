@@ -1,16 +1,60 @@
-[
-  {
-    "politician_name": "Neal Patrick MD, Facs Dunn",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034114 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034114.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Neal Patrick MD, Facs Dunn",
+      "representative": "Neal Patrick MD, Facs Dunn",
+      "first_name": "Neal Patrick MD, Facs",
+      "last_name": "Dunn",
+      "chamber": "House",
+      "office": "Representative Neal Patrick MD, Facs Dunn (FL02)",
+      "ticker": "",
+      "asset_description": "JP Morgan Chase & Co Depositary Shares Preferred Series GG [OT]",
+      "type": "Sale (Full)",
+      "transaction_date": "05/11/2026",
+      "disclosure_date": "",
+      "amount": "$50,001 - $100,000",
+      "amount_range": "$50,001 - $100,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034815.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034114",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034114.pdf",
+      "filed_date": "3/17/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034815",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034815.pdf",
+      "filed_date": "6/23/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20027895",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027895.pdf",
+      "filed_date": "3/10/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029068",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029068.pdf",
+      "filed_date": "4/3/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030735",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030735.pdf",
+      "filed_date": "8/13/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032191",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032191.pdf",
+      "filed_date": "10/1/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

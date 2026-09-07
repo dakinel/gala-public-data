@@ -1,16 +1,120 @@
-[
-  {
-    "politician_name": "Matthew Robert Van Epps",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034807 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Matthew Robert Van Epps",
+      "representative": "Matthew Robert Van Epps",
+      "first_name": "Matthew Robert",
+      "last_name": "Van Epps",
+      "chamber": "House",
+      "office": "Representative Matthew Robert Van Epps (TN07)",
+      "ticker": "AMZN",
+      "asset_description": "Amazon.com, Inc. - Common Stock (AMZN) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "06/16/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Matthew Robert Van Epps",
+      "representative": "Matthew Robert Van Epps",
+      "first_name": "Matthew Robert",
+      "last_name": "Van Epps",
+      "chamber": "House",
+      "office": "Representative Matthew Robert Van Epps (TN07)",
+      "ticker": "XOM",
+      "asset_description": "Exxon Mobil Corporation Common Stock (XOM) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "06/16/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Matthew Robert Van Epps",
+      "representative": "Matthew Robert Van Epps",
+      "first_name": "Matthew Robert",
+      "last_name": "Van Epps",
+      "chamber": "House",
+      "office": "Representative Matthew Robert Van Epps (TN07)",
+      "ticker": "GEV",
+      "asset_description": "GE Vernova Inc. Common Stock (GEV) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "06/16/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Matthew Robert Van Epps",
+      "representative": "Matthew Robert Van Epps",
+      "first_name": "Matthew Robert",
+      "last_name": "Van Epps",
+      "chamber": "House",
+      "office": "Representative Matthew Robert Van Epps (TN07)",
+      "ticker": "IBM",
+      "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "06/16/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Matthew Robert Van Epps",
+      "representative": "Matthew Robert Van Epps",
+      "first_name": "Matthew Robert",
+      "last_name": "Van Epps",
+      "chamber": "House",
+      "office": "Representative Matthew Robert Van Epps (TN07)",
+      "ticker": "MSFT",
+      "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "06/16/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Matthew Robert Van Epps",
+      "representative": "Matthew Robert Van Epps",
+      "first_name": "Matthew Robert",
+      "last_name": "Van Epps",
+      "chamber": "House",
+      "office": "Representative Matthew Robert Van Epps (TN07)",
+      "ticker": "LUV",
+      "asset_description": "Southwest Airlines Company Common Stock (LUV) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "06/16/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034807",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034807.pdf",
+      "filed_date": "6/17/2026",
+      "parse_status": "parsed"
+    }
+  ]
+}

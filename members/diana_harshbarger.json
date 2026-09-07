@@ -1,16 +1,65 @@
-[
-  {
-    "politician_name": "Diana Harshbarger",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=9115809 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115809.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [],
+  "filings": [
+    {
+      "doc_id": "9115809",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115809.pdf",
+      "filed_date": "5/6/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9115811",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115811.pdf",
+      "filed_date": "5/6/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9115812",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115812.pdf",
+      "filed_date": "5/6/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9115813",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115813.pdf",
+      "filed_date": "5/6/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9115814",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115814.pdf",
+      "filed_date": "5/6/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9115815",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115815.pdf",
+      "filed_date": "5/6/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9115901",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115901.pdf",
+      "filed_date": "6/4/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9116256",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116256.pdf",
+      "filed_date": "8/3/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9116257",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116257.pdf",
+      "filed_date": "8/3/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "9116258",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116258.pdf",
+      "filed_date": "8/3/2026",
+      "parse_status": "scanned_unparsed"
+    }
+  ]
+}

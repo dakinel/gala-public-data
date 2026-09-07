@@ -1,16 +1,23 @@
-[
-  {
-    "politician_name": "Nicole Malliotakis",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=9116217 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116217.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [],
+  "filings": [
+    {
+      "doc_id": "9116217",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116217.pdf",
+      "filed_date": "7/14/2026",
+      "parse_status": "scanned_unparsed"
+    },
+    {
+      "doc_id": "8221276",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221276.pdf",
+      "filed_date": "12/19/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "8221287",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221287.pdf",
+      "filed_date": "1/7/2026",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

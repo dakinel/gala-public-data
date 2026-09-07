@@ -1,16 +1,29 @@
-[
-  {
-    "politician_name": "Earl Leroy Carter",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034502 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034502.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [],
+  "filings": [
+    {
+      "doc_id": "20034502",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034502.pdf",
+      "filed_date": "5/8/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20027913",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027913.pdf",
+      "filed_date": "3/6/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030215",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030215.pdf",
+      "filed_date": "4/23/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030632",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030632.pdf",
+      "filed_date": "7/8/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

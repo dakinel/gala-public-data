@@ -1,16 +1,72 @@
-[
-  {
-    "politician_name": "Christian D. Menefee",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034099 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Christian D. Menefee",
+      "representative": "Christian D. Menefee",
+      "first_name": "Christian D.",
+      "last_name": "Menefee",
+      "chamber": "House",
+      "office": "Representative Christian D. Menefee (TX18)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "02/10/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Christian D. Menefee",
+      "representative": "Christian D. Menefee",
+      "first_name": "Christian D.",
+      "last_name": "Menefee",
+      "chamber": "House",
+      "office": "Representative Christian D. Menefee (TX18)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "05/28/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Christian D. Menefee",
+      "representative": "Christian D. Menefee",
+      "first_name": "Christian D.",
+      "last_name": "Menefee",
+      "chamber": "House",
+      "office": "Representative Christian D. Menefee (TX18)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "02/17/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034099",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034099.pdf",
+      "filed_date": "6/1/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035157",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035157.pdf",
+      "filed_date": "8/7/2026",
+      "parse_status": "parsed_empty"
+    }
+  ]
+}

@@ -1,16 +1,60 @@
-[
-  {
-    "politician_name": "James French Hill",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033661 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033661.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "James French Hill",
+      "representative": "James French Hill",
+      "first_name": "James French",
+      "last_name": "Hill",
+      "chamber": "House",
+      "office": "Representative James French Hill (AR02)",
+      "ticker": "PFE",
+      "asset_description": "Pfizer, Inc. Common Stock (PFE) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "12/31/2025",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033661.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "James French Hill",
+      "representative": "James French Hill",
+      "first_name": "James French",
+      "last_name": "Hill",
+      "chamber": "House",
+      "office": "Representative James French Hill (AR02)",
+      "ticker": "SOLV",
+      "asset_description": "Solventum Corporation Common Stock (SOLV) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "12/31/2025",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033661.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033661",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033661.pdf",
+      "filed_date": "1/23/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20026706",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026706.pdf",
+      "filed_date": "2/4/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030551",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030551.pdf",
+      "filed_date": "7/24/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

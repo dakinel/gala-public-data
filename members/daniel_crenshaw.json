@@ -1,16 +1,84 @@
-[
-  {
-    "politician_name": "Daniel Crenshaw",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20035024 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Daniel Crenshaw",
+      "representative": "Daniel Crenshaw",
+      "first_name": "Daniel",
+      "last_name": "Crenshaw",
+      "chamber": "House",
+      "office": "Representative Daniel Crenshaw (TX02)",
+      "ticker": "AMZN",
+      "asset_description": "Amazon.com, Inc. - Common Stock (AMZN) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "06/01/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Daniel Crenshaw",
+      "representative": "Daniel Crenshaw",
+      "first_name": "Daniel",
+      "last_name": "Crenshaw",
+      "chamber": "House",
+      "office": "Representative Daniel Crenshaw (TX02)",
+      "ticker": "",
+      "asset_description": "FAS [OT]",
+      "type": "Sale (Full)",
+      "transaction_date": "06/01/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Daniel Crenshaw",
+      "representative": "Daniel Crenshaw",
+      "first_name": "Daniel",
+      "last_name": "Crenshaw",
+      "chamber": "House",
+      "office": "Representative Daniel Crenshaw (TX02)",
+      "ticker": "META",
+      "asset_description": "Meta Platforms, Inc. - Class A Common Stock (META) [OP]",
+      "type": "Sale (Full)",
+      "transaction_date": "05/05/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Daniel Crenshaw",
+      "representative": "Daniel Crenshaw",
+      "first_name": "Daniel",
+      "last_name": "Crenshaw",
+      "chamber": "House",
+      "office": "Representative Daniel Crenshaw (TX02)",
+      "ticker": "USOU",
+      "asset_description": "United States 3x Oil Fund (USOU) [ST]",
+      "type": "Purchase",
+      "transaction_date": "06/01/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20035024",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035024.pdf",
+      "filed_date": "7/16/2026",
+      "parse_status": "parsed"
+    }
+  ]
+}

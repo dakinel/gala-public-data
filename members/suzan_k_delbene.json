@@ -1,16 +1,258 @@
-[
-  {
-    "politician_name": "Suzan K. DelBene",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033766 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033766.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Suzan K. DelBene",
+      "representative": "Suzan K. DelBene",
+      "first_name": "Suzan K.",
+      "last_name": "DelBene",
+      "chamber": "House",
+      "office": "Representative Suzan K. DelBene (WA01)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Sale (Partial)",
+      "transaction_date": "01/13/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033835.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Suzan K. DelBene",
+      "representative": "Suzan K. DelBene",
+      "first_name": "Suzan K.",
+      "last_name": "DelBene",
+      "chamber": "House",
+      "office": "Representative Suzan K. DelBene (WA01)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Sale (Full)",
+      "transaction_date": "01/06/2026",
+      "disclosure_date": "",
+      "amount": "$250,001 - $500,000",
+      "amount_range": "$250,001 - $500,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033835.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Suzan K. DelBene",
+      "representative": "Suzan K. DelBene",
+      "first_name": "Suzan K.",
+      "last_name": "DelBene",
+      "chamber": "House",
+      "office": "Representative Suzan K. DelBene (WA01)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Sale (Partial)",
+      "transaction_date": "01/13/2026",
+      "disclosure_date": "",
+      "amount": "$50,001 - $100,000",
+      "amount_range": "$50,001 - $100,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033835.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Suzan K. DelBene",
+      "representative": "Suzan K. DelBene",
+      "first_name": "Suzan K.",
+      "last_name": "DelBene",
+      "chamber": "House",
+      "office": "Representative Suzan K. DelBene (WA01)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "04/01/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034400.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Suzan K. DelBene",
+      "representative": "Suzan K. DelBene",
+      "first_name": "Suzan K.",
+      "last_name": "DelBene",
+      "chamber": "House",
+      "office": "Representative Suzan K. DelBene (WA01)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Purchase",
+      "transaction_date": "05/04/2026",
+      "disclosure_date": "",
+      "amount": "$50,001 - $100,000",
+      "amount_range": "$50,001 - $100,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034615.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Suzan K. DelBene",
+      "representative": "Suzan K. DelBene",
+      "first_name": "Suzan K.",
+      "last_name": "DelBene",
+      "chamber": "House",
+      "office": "Representative Suzan K. DelBene (WA01)",
+      "ticker": "",
+      "asset_description": "JT",
+      "type": "Sale (Full)",
+      "transaction_date": "08/06/2026",
+      "disclosure_date": "",
+      "amount": "$250,001 - $500,000",
+      "amount_range": "$250,001 - $500,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035274.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033766",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033766.pdf",
+      "filed_date": "1/12/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20033835",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033835.pdf",
+      "filed_date": "1/23/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034155",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034155.pdf",
+      "filed_date": "3/12/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034400",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034400.pdf",
+      "filed_date": "4/28/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034466",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034466.pdf",
+      "filed_date": "5/8/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034615",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034615.pdf",
+      "filed_date": "5/26/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034727",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034727.pdf",
+      "filed_date": "6/11/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20035175",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035175.pdf",
+      "filed_date": "8/11/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20035274",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035274.pdf",
+      "filed_date": "8/21/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20026602",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026602.pdf",
+      "filed_date": "2/9/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027807",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027807.pdf",
+      "filed_date": "2/25/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027999",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027999.pdf",
+      "filed_date": "3/26/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029070",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029070.pdf",
+      "filed_date": "4/10/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030289",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030289.pdf",
+      "filed_date": "5/7/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030444",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030444.pdf",
+      "filed_date": "6/8/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030541",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030541.pdf",
+      "filed_date": "6/24/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030619",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030619.pdf",
+      "filed_date": "7/17/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030826",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030826.pdf",
+      "filed_date": "8/9/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030955",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030955.pdf",
+      "filed_date": "8/29/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032102",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032102.pdf",
+      "filed_date": "9/28/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032245",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032245.pdf",
+      "filed_date": "10/13/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033335",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033335.pdf",
+      "filed_date": "10/30/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033431",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033431.pdf",
+      "filed_date": "11/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033587",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033587.pdf",
+      "filed_date": "12/8/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

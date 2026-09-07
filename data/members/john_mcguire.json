@@ -1,16 +1,138 @@
-[
-  {
-    "politician_name": "John McGuire",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033956 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033956.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "John McGuire",
+      "representative": "John McGuire",
+      "first_name": "John",
+      "last_name": "McGuire",
+      "chamber": "House",
+      "office": "Representative John McGuire (VA05)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Partial)",
+      "transaction_date": "01/30/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033956.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "John McGuire",
+      "representative": "John McGuire",
+      "first_name": "John",
+      "last_name": "McGuire",
+      "chamber": "House",
+      "office": "Representative John McGuire (VA05)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Partial)",
+      "transaction_date": "01/20/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033956.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "John McGuire",
+      "representative": "John McGuire",
+      "first_name": "John",
+      "last_name": "McGuire",
+      "chamber": "House",
+      "office": "Representative John McGuire (VA05)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "04/15/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034521.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "John McGuire",
+      "representative": "John McGuire",
+      "first_name": "John",
+      "last_name": "McGuire",
+      "chamber": "House",
+      "office": "Representative John McGuire (VA05)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "06/04/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034748.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "John McGuire",
+      "representative": "John McGuire",
+      "first_name": "John",
+      "last_name": "McGuire",
+      "chamber": "House",
+      "office": "Representative John McGuire (VA05)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "06/15/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034942.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033956",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033956.pdf",
+      "filed_date": "2/10/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034521",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034521.pdf",
+      "filed_date": "5/13/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034748",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034748.pdf",
+      "filed_date": "6/10/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034942",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034942.pdf",
+      "filed_date": "7/8/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20016861",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20016861.pdf",
+      "filed_date": "5/16/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030509",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030509.pdf",
+      "filed_date": "6/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030620",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030620.pdf",
+      "filed_date": "7/10/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

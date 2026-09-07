@@ -1,16 +1,222 @@
-[
-  {
-    "politician_name": "Max Miller",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033881 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033881.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Max Miller",
+      "representative": "Max Miller",
+      "first_name": "Max",
+      "last_name": "Miller",
+      "chamber": "House",
+      "office": "Representative Max Miller (OH07)",
+      "ticker": "",
+      "asset_description": "GLAS Funds, LP [HN]",
+      "type": "Purchase",
+      "transaction_date": "01/07/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033881.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Max Miller",
+      "representative": "Max Miller",
+      "first_name": "Max",
+      "last_name": "Miller",
+      "chamber": "House",
+      "office": "Representative Max Miller (OH07)",
+      "ticker": "",
+      "asset_description": "New Water Capital Partners II, LP (GLAS Funds LP) [HN]",
+      "type": "Purchase",
+      "transaction_date": "02/27/2026",
+      "disclosure_date": "",
+      "amount": "$318.74",
+      "amount_range": "$318.74",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034247.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Max Miller",
+      "representative": "Max Miller",
+      "first_name": "Max",
+      "last_name": "Miller",
+      "chamber": "House",
+      "office": "Representative Max Miller (OH07)",
+      "ticker": "",
+      "asset_description": "Riverside Acceleration Capital Opportunity Fund II (GLAS Funds, LP) [HN]",
+      "type": "Purchase",
+      "transaction_date": "03/13/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034247.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Max Miller",
+      "representative": "Max Miller",
+      "first_name": "Max",
+      "last_name": "Miller",
+      "chamber": "House",
+      "office": "Representative Max Miller (OH07)",
+      "ticker": "",
+      "asset_description": "Trimer Capital Select I LP (GLAS Funds LP) [HN]",
+      "type": "Purchase",
+      "transaction_date": "03/03/2026",
+      "disclosure_date": "",
+      "amount": "$584.22",
+      "amount_range": "$584.22",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034247.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Max Miller",
+      "representative": "Max Miller",
+      "first_name": "Max",
+      "last_name": "Miller",
+      "chamber": "House",
+      "office": "Representative Max Miller (OH07)",
+      "ticker": "",
+      "asset_description": "GLAS Funds, LP [HN]",
+      "type": "Purchase",
+      "transaction_date": "04/06/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034419.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Max Miller",
+      "representative": "Max Miller",
+      "first_name": "Max",
+      "last_name": "Miller",
+      "chamber": "House",
+      "office": "Representative Max Miller (OH07)",
+      "ticker": "",
+      "asset_description": "GLAS Funds, LP [HN]",
+      "type": "Sale (Partial)",
+      "transaction_date": "05/11/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034651.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Max Miller",
+      "representative": "Max Miller",
+      "first_name": "Max",
+      "last_name": "Miller",
+      "chamber": "House",
+      "office": "Representative Max Miller (OH07)",
+      "ticker": "",
+      "asset_description": "Cliffwater Corporate Lending Fund (Ticker: CCLFX) [OT]",
+      "type": "Sale (Partial)",
+      "transaction_date": "05/29/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034869.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033881",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033881.pdf",
+      "filed_date": "1/29/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034247",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034247.pdf",
+      "filed_date": "3/30/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034419",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034419.pdf",
+      "filed_date": "4/28/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034651",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034651.pdf",
+      "filed_date": "5/29/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034869",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034869.pdf",
+      "filed_date": "7/1/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035075",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035075.pdf",
+      "filed_date": "7/26/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20026684",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026684.pdf",
+      "filed_date": "1/31/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027838",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027838.pdf",
+      "filed_date": "2/24/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029035",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029035.pdf",
+      "filed_date": "3/27/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030236",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030236.pdf",
+      "filed_date": "4/28/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030401",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030401.pdf",
+      "filed_date": "5/22/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030585",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030585.pdf",
+      "filed_date": "7/1/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030742",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030742.pdf",
+      "filed_date": "7/27/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030989",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030989.pdf",
+      "filed_date": "8/28/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032187",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032187.pdf",
+      "filed_date": "10/28/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

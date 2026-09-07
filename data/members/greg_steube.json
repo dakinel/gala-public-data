@@ -1,16 +1,42 @@
-[
-  {
-    "politician_name": "Greg Steube",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034345 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034345.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Greg Steube",
+      "representative": "Greg Steube",
+      "first_name": "Greg",
+      "last_name": "Steube",
+      "chamber": "House",
+      "office": "Representative Greg Steube (FL17)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Purchase",
+      "transaction_date": "04/08/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034345.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034345",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034345.pdf",
+      "filed_date": "4/14/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20024927",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20024927.pdf",
+      "filed_date": "4/4/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030673",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030673.pdf",
+      "filed_date": "7/16/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

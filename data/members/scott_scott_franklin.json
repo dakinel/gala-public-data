@@ -1,16 +1,90 @@
-[
-  {
-    "politician_name": "Scott Scott Franklin",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20034050 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034050.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Scott Scott Franklin",
+      "representative": "Scott Scott Franklin",
+      "first_name": "Scott Scott",
+      "last_name": "Franklin",
+      "chamber": "House",
+      "office": "Representative Scott Scott Franklin (FL18)",
+      "ticker": "",
+      "asset_description": "SP",
+      "type": "Sale (Full)",
+      "transaction_date": "02/10/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034050.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20034050",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034050.pdf",
+      "filed_date": "2/23/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20027834",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027834.pdf",
+      "filed_date": "2/23/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20027995",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027995.pdf",
+      "filed_date": "3/18/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20029132",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029132.pdf",
+      "filed_date": "4/11/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030187",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030187.pdf",
+      "filed_date": "4/17/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030445",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030445.pdf",
+      "filed_date": "6/2/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030494",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030494.pdf",
+      "filed_date": "7/3/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030670",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030670.pdf",
+      "filed_date": "7/14/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030778",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030778.pdf",
+      "filed_date": "7/31/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030918",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030918.pdf",
+      "filed_date": "8/14/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033327",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033327.pdf",
+      "filed_date": "10/22/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}

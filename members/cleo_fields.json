@@ -1,16 +1,348 @@
-[
-  {
-    "politician_name": "Cleo Fields",
-    "chamber": "House",
-    "ticker": "",
-    "asset_description": "PTR Filing 2026 DocID=20033732 (scanned PDF)",
-    "type": "Other",
-    "amount": "Unknown",
-    "transaction_date": "2026-01-01",
-    "disclosure_date": "",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf",
-    "transaction_type": "Other",
-    "amount_range": "Unknown",
-    "notification_date": ""
-  }
-]
+{
+  "trades": [
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "FIG",
+      "asset_description": "FIGMA INC CLASS A (FIG) [OT]",
+      "type": "Sale (Partial)",
+      "transaction_date": "12/26/2025",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "IREN",
+      "asset_description": "IREN Limited - Ordinary Shares (IREN) [ST]",
+      "type": "Sale (Full)",
+      "transaction_date": "12/26/2025",
+      "disclosure_date": "",
+      "amount": "$50,001 - $100,000",
+      "amount_range": "$50,001 - $100,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "GOOG",
+      "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+      "type": "Purchase",
+      "transaction_date": "01/20/2026",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "META",
+      "asset_description": "Meta Platforms, Inc. - Class A Common Stock (META) [ST]",
+      "type": "Purchase",
+      "transaction_date": "01/20/2026",
+      "disclosure_date": "",
+      "amount": "$50,001 - $100,000",
+      "amount_range": "$50,001 - $100,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "TSM",
+      "asset_description": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) [ST]",
+      "type": "Purchase",
+      "transaction_date": "01/08/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "GOOGL",
+      "asset_description": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+      "type": "Purchase",
+      "transaction_date": "02/03/2026",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "LRCX",
+      "asset_description": "Lam Research Corporation - Common Stock (LRCX) [ST]",
+      "type": "Purchase",
+      "transaction_date": "02/03/2026",
+      "disclosure_date": "",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "MU",
+      "asset_description": "Micron Technology, Inc. - Common Stock (MU) [ST]",
+      "type": "Purchase",
+      "transaction_date": "02/03/2026",
+      "disclosure_date": "",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "MSFT",
+      "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+      "type": "Purchase",
+      "transaction_date": "03/12/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034179.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "MSFT",
+      "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+      "type": "Purchase",
+      "transaction_date": "06/11/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "QNT",
+      "asset_description": "Quantinuum Inc. - Class A Common Stock (QNT) [ST]",
+      "type": "Purchase",
+      "transaction_date": "06/04/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "NVDA",
+      "asset_description": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+      "type": "Purchase",
+      "transaction_date": "06/26/2026",
+      "disclosure_date": "",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034894.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20033732",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033732.pdf",
+      "filed_date": "1/16/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20033858",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033858.pdf",
+      "filed_date": "2/3/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034018",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034018.pdf",
+      "filed_date": "2/24/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034179",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034179.pdf",
+      "filed_date": "3/17/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034295",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034295.pdf",
+      "filed_date": "4/7/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034357",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034357.pdf",
+      "filed_date": "4/20/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034591",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034591.pdf",
+      "filed_date": "6/3/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20034800",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034800.pdf",
+      "filed_date": "6/26/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20034894",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034894.pdf",
+      "filed_date": "7/16/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035023",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035023.pdf",
+      "filed_date": "7/30/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20035345",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035345.pdf",
+      "filed_date": "9/2/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "20027855",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20027855.pdf",
+      "filed_date": "3/14/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030472",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030472.pdf",
+      "filed_date": "7/1/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20030803",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030803.pdf",
+      "filed_date": "8/6/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20031017",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20031017.pdf",
+      "filed_date": "9/3/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20032106",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032106.pdf",
+      "filed_date": "9/30/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033326",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033326.pdf",
+      "filed_date": "10/30/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033424",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033424.pdf",
+      "filed_date": "11/12/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033493",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033493.pdf",
+      "filed_date": "11/19/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033559",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033559.pdf",
+      "filed_date": "12/10/2025",
+      "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20033616",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033616.pdf",
+      "filed_date": "12/17/2025",
+      "parse_status": "parse_failed"
+    }
+  ]
+}
