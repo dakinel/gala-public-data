@@ -165,6 +165,18 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030611.pdf",
       "filed_date": "7/4/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20035444",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035444.pdf",
+      "filed_date": "9/12/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035445",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035445.pdf",
+      "filed_date": "9/12/2026",
+      "parse_status": "parsed"
     }
   ]
 }
