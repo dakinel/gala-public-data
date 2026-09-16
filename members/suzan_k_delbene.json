@@ -1342,6 +1342,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035274.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Suzan K. DelBene",
+      "representative": "Suzan K. DelBene",
+      "first_name": "Suzan K.",
+      "last_name": "DelBene",
+      "chamber": "House",
+      "office": "Representative Suzan K. DelBene (WA01)",
+      "ticker": "",
+      "asset_description": "JT New York NY City Transitional Fin",
+      "type": "Purchase",
+      "transaction_date": "08/20/2026",
+      "disclosure_date": "",
+      "notification_date": "08/20/2026",
+      "amount": "$15,001 - 5",
+      "amount_range": "$15,001 - 5",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035400.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -1488,6 +1507,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033587.pdf",
       "filed_date": "12/8/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20035400",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035400.pdf",
+      "filed_date": "9/14/2026",
+      "parse_status": "parsed"
     }
   ]
 }
