@@ -3693,6 +3693,44 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "David J. Taylor",
+      "representative": "David J. Taylor",
+      "first_name": "David J.",
+      "last_name": "Taylor",
+      "chamber": "House",
+      "office": "Representative David J. Taylor (OH02)",
+      "ticker": "",
+      "asset_description": "Installed Building Products, Inc.",
+      "type": "Purchase",
+      "transaction_date": "09/08/2026",
+      "disclosure_date": "",
+      "notification_date": "09/09/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "David J. Taylor",
+      "representative": "David J. Taylor",
+      "first_name": "David J.",
+      "last_name": "Taylor",
+      "chamber": "House",
+      "office": "Representative David J. Taylor (OH02)",
+      "ticker": "IBP",
+      "asset_description": "Common Stock (IBP) [ST] F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown) Procter & Gamble Company (PG)",
+      "type": "Purchase",
+      "transaction_date": "09/08/2026",
+      "disclosure_date": "",
+      "notification_date": "09/17/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -3844,6 +3882,12 @@
       "doc_id": "20035392",
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035392.pdf",
       "filed_date": "9/5/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035471",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035471.pdf",
+      "filed_date": "9/17/2026",
       "parse_status": "parsed"
     }
   ]
