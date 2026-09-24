@@ -170,6 +170,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Pete Sessions",
+      "representative": "Pete Sessions",
+      "first_name": "Pete",
+      "last_name": "Sessions",
+      "chamber": "House",
+      "office": "Representative Pete Sessions (TX17)",
+      "ticker": "AAPL",
+      "asset_description": "SP Apple Inc. - Common Stock (AAPL)",
+      "type": "Sale (Full)",
+      "transaction_date": "09/22/2026",
+      "disclosure_date": "",
+      "notification_date": "09/22/2026",
+      "amount": "$100,001",
+      "amount_range": "$100,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -213,6 +232,12 @@
       "doc_id": "20035480",
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf",
       "filed_date": "9/18/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035499",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf",
+      "filed_date": "9/22/2026",
       "parse_status": "parsed"
     }
   ]

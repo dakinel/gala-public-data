@@ -1128,6 +1128,44 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035260.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "SP Broadcom Inc. - Common Stock",
+      "type": "Purchase",
+      "transaction_date": "08/12/2026",
+      "disclosure_date": "",
+      "notification_date": "09/15/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "AVGO",
+      "asset_description": "(AVGO) [ST] F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: R.W. Allen & Associates, Inc. > RWA&A - Securities SP Rollins, Inc. Common Stock (ROL)",
+      "type": "Sale (Full)",
+      "transaction_date": "08/12/2026",
+      "disclosure_date": "",
+      "notification_date": "09/15/2026",
+      "amount": "$15,001",
+      "amount_range": "$15,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -1250,6 +1288,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033589.pdf",
       "filed_date": "12/9/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20035492",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf",
+      "filed_date": "9/22/2026",
+      "parse_status": "parsed"
     }
   ]
 }

@@ -2550,6 +2550,82 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035007.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Sheri Biggs",
+      "representative": "Sheri Biggs",
+      "first_name": "Sheri",
+      "last_name": "Biggs",
+      "chamber": "House",
+      "office": "Representative Sheri Biggs (SC03)",
+      "ticker": "",
+      "asset_description": "SP ALPHAKEYS BLACKSTONE LIFE",
+      "type": "Purchase",
+      "transaction_date": "08/31/2026",
+      "disclosure_date": "",
+      "notification_date": "09/09/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Sheri Biggs",
+      "representative": "Sheri Biggs",
+      "first_name": "Sheri",
+      "last_name": "Biggs",
+      "chamber": "House",
+      "office": "Representative Sheri Biggs (SC03)",
+      "ticker": "",
+      "asset_description": "SCIENCES VI LP [HN] F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: W.S.B Trust > UBS Financial Services 26 D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Professionally managed account. SP Apollo Debt Solutions BDC Class S",
+      "type": "Purchase",
+      "transaction_date": "08/28/2026",
+      "disclosure_date": "",
+      "notification_date": "09/09/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Sheri Biggs",
+      "representative": "Sheri Biggs",
+      "first_name": "Sheri",
+      "last_name": "Biggs",
+      "chamber": "House",
+      "office": "Representative Sheri Biggs (SC03)",
+      "ticker": "",
+      "asset_description": "[OT] F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: W.S.B Trust > UBS Financial Services 26 L\u0000\u0000\u0000\u0000\u0000\u0000\u0000: US D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Dividend reinvestment in a professionally managed account \u2013 Business Development Company. SP Bank of Nova Scotia [CS]",
+      "type": "Sale (Full)",
+      "transaction_date": "08/19/2026",
+      "disclosure_date": "",
+      "notification_date": "09/09/2026",
+      "amount": "$500,001 - $1,000,000",
+      "amount_range": "$500,001 - $1,000,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Sheri Biggs",
+      "representative": "Sheri Biggs",
+      "first_name": "Sheri",
+      "last_name": "Biggs",
+      "chamber": "House",
+      "office": "Representative Sheri Biggs (SC03)",
+      "ticker": "",
+      "asset_description": "F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: W.S.B Trust > Rockefeller Cap. Mgmt 3 D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Professionally managed account. Structured product based on XLE. SP Bank of Nova Scotia [CS]",
+      "type": "Purchase",
+      "transaction_date": "09/01/2026",
+      "disclosure_date": "",
+      "notification_date": "09/09/2026",
+      "amount": "$500,001 - $1,000,000",
+      "amount_range": "$500,001 - $1,000,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -2618,6 +2694,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033694.pdf",
       "filed_date": "12/29/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20035489",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf",
+      "filed_date": "9/22/2026",
+      "parse_status": "parsed"
     }
   ]
 }
