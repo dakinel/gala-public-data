@@ -676,6 +676,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035075.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Max Miller",
+      "representative": "Max Miller",
+      "first_name": "Max",
+      "last_name": "Miller",
+      "chamber": "House",
+      "office": "Representative Max Miller (OH07)",
+      "ticker": "",
+      "asset_description": "Mercato Partners Traverse IV QP, LP",
+      "type": "Purchase",
+      "transaction_date": "09/04/2026",
+      "disclosure_date": "",
+      "notification_date": "09/27/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035528.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -768,6 +787,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20032187.pdf",
       "filed_date": "10/28/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20035528",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035528.pdf",
+      "filed_date": "9/27/2026",
+      "parse_status": "parsed"
     }
   ]
 }
