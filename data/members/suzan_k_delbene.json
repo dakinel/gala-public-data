@@ -1361,6 +1361,63 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035400.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Suzan K. DelBene",
+      "representative": "Suzan K. DelBene",
+      "first_name": "Suzan K.",
+      "last_name": "DelBene",
+      "chamber": "House",
+      "office": "Representative Suzan K. DelBene (WA01)",
+      "ticker": "",
+      "asset_description": "JT Boulder Larimer & Weld CNTYS Colo",
+      "type": "Purchase",
+      "transaction_date": "09/03/2026",
+      "disclosure_date": "",
+      "notification_date": "09/03/2026",
+      "amount": "$250,001",
+      "amount_range": "$250,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Suzan K. DelBene",
+      "representative": "Suzan K. DelBene",
+      "first_name": "Suzan K.",
+      "last_name": "DelBene",
+      "chamber": "House",
+      "office": "Representative Suzan K. DelBene (WA01)",
+      "ticker": "",
+      "asset_description": "- ST 05.00000% 12/15/2027 Vrain VY $500,000 SCH Dist Gen Oblig [GS] F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New JT California CMNTY Choice Fing Auth",
+      "type": "Sale (Full)",
+      "transaction_date": "09/03/2026",
+      "disclosure_date": "",
+      "notification_date": "09/03/2026",
+      "amount": "$250,001 - 5",
+      "amount_range": "$250,001 - 5",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Suzan K. DelBene",
+      "representative": "Suzan K. DelBene",
+      "first_name": "Suzan K.",
+      "last_name": "DelBene",
+      "chamber": "House",
+      "office": "Representative Suzan K. DelBene (WA01)",
+      "ticker": "",
+      "asset_description": ".00% Due Oct 1, 2056 [GS] $500,000 F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New JT Central VY Energy Auth Calif",
+      "type": "Purchase",
+      "transaction_date": "09/14/2026",
+      "disclosure_date": "",
+      "notification_date": "09/14/2026",
+      "amount": "$250,001",
+      "amount_range": "$250,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -1512,6 +1569,12 @@
       "doc_id": "20035400",
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035400.pdf",
       "filed_date": "9/14/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035498",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035498.pdf",
+      "filed_date": "9/30/2026",
       "parse_status": "parsed"
     }
   ]
