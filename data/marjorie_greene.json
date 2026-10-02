@@ -1288,35 +1288,5 @@
     "owner": "Self",
     "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029089.pdf",
     "comment": ""
-  },
-  {
-    "politician_name": "Marjorie Taylor Greene",
-    "chamber": "House",
-    "bioguide_id": "",
-    "ticker": "AAPL",
-    "asset_description": "Apple Inc. - Common Stock",
-    "asset_type": "Stock",
-    "transaction_type": "Purchase",
-    "amount_range": "$1,001 - $15,000",
-    "transaction_date": "2025-04-03",
-    "notification_date": "2025-04-04",
-    "owner": "Self",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029089.pdf",
-    "comment": ""
-  },
-  {
-    "politician_name": "Marjorie Taylor Greene",
-    "chamber": "House",
-    "bioguide_id": "",
-    "ticker": "SO",
-    "asset_description": "Southern Company",
-    "asset_type": "Stock",
-    "transaction_type": "Purchase",
-    "amount_range": "$1,001 - $15,000",
-    "transaction_date": "2025-04-03",
-    "notification_date": "2025-04-04",
-    "owner": "Self",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029089.pdf",
-    "comment": ""
   }
 ]
