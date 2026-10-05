@@ -761,6 +761,63 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Michael Rulli",
+      "representative": "Michael Rulli",
+      "first_name": "Michael",
+      "last_name": "Rulli",
+      "chamber": "House",
+      "office": "Representative Michael Rulli (OH06)",
+      "ticker": "GS",
+      "asset_description": "Goldman Sachs Group, Inc. (GS) [ST]",
+      "type": "Purchase",
+      "transaction_date": "09/03/2026",
+      "disclosure_date": "",
+      "notification_date": "09/04/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Michael Rulli",
+      "representative": "Michael Rulli",
+      "first_name": "Michael",
+      "last_name": "Rulli",
+      "chamber": "House",
+      "office": "Representative Michael Rulli (OH06)",
+      "ticker": "",
+      "asset_description": "F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch SIMPLE Managed Account Microsoft Corporation - Common",
+      "type": "Sale (Partial)",
+      "transaction_date": "09/28/2026",
+      "disclosure_date": "",
+      "notification_date": "09/28/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Michael Rulli",
+      "representative": "Michael Rulli",
+      "first_name": "Michael",
+      "last_name": "Rulli",
+      "chamber": "House",
+      "office": "Representative Michael Rulli (OH06)",
+      "ticker": "MSFT",
+      "asset_description": "Stock (MSFT) [ST] F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Merrill Lynch SIMPLE Managed Account Wells Fargo & Company Common",
+      "type": "Sale (Partial)",
+      "transaction_date": "09/03/2026",
+      "disclosure_date": "",
+      "notification_date": "09/04/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -780,6 +837,12 @@
       "doc_id": "20035365",
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035365.pdf",
       "filed_date": "9/2/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035558",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
+      "filed_date": "10/2/2026",
       "parse_status": "parsed"
     }
   ]
