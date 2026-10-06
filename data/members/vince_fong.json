@@ -1,0 +1,31 @@
+{
+  "trades": [
+    {
+      "politician_name": "Vince Fong",
+      "representative": "Vince Fong",
+      "first_name": "Vince",
+      "last_name": "Fong",
+      "chamber": "House",
+      "office": "Representative Vince Fong (CA20)",
+      "ticker": "",
+      "asset_description": "U.S. Treasury Bill 0.0% Int Mat",
+      "type": "Purchase",
+      "transaction_date": "09/18/2026",
+      "disclosure_date": "",
+      "notification_date": "09/18/2026",
+      "amount": "$15,001 - 12",
+      "amount_range": "$15,001 - 12",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035539.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20035539",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035539.pdf",
+      "filed_date": "10/5/2026",
+      "parse_status": "parsed"
+    }
+  ]
+}
