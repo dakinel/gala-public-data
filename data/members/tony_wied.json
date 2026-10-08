@@ -78,6 +78,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116326.pdf",
       "filed_date": "9/2/2026",
       "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "9116361",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116361.pdf",
+      "filed_date": "10/2/2026",
+      "parse_status": "parsed_empty"
     }
   ]
 }

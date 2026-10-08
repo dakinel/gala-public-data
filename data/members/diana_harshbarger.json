@@ -66,6 +66,24 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116331.pdf",
       "filed_date": "9/11/2026",
       "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "9116355",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116355.pdf",
+      "filed_date": "10/1/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "9116356",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116356.pdf",
+      "filed_date": "10/1/2026",
+      "parse_status": "parsed_empty"
+    },
+    {
+      "doc_id": "9116357",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116357.pdf",
+      "filed_date": "10/1/2026",
+      "parse_status": "parsed_empty"
     }
   ]
 }
