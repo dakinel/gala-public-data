@@ -10050,6 +10050,44 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Josh Gottheimer",
+      "representative": "Josh Gottheimer",
+      "first_name": "Josh",
+      "last_name": "Gottheimer",
+      "chamber": "House",
+      "office": "Representative Josh Gottheimer (NJ05)",
+      "ticker": "",
+      "asset_description": "JT Applied Materials, Inc. - Common",
+      "type": "Sale (Full)",
+      "transaction_date": "09/15/2026",
+      "disclosure_date": "",
+      "notification_date": "10/06/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Josh Gottheimer",
+      "representative": "Josh Gottheimer",
+      "first_name": "Josh",
+      "last_name": "Gottheimer",
+      "chamber": "House",
+      "office": "Representative Josh Gottheimer (NJ05)",
+      "ticker": "AMAT",
+      "asset_description": "Stock (AMAT) [ST] F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Morgan Stanley - Select UMA Account # 1 JT McDonald's Corporation Common",
+      "type": "Sale (Partial)",
+      "transaction_date": "09/25/2026",
+      "disclosure_date": "",
+      "notification_date": "10/06/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -10177,6 +10215,12 @@
       "doc_id": "20035455",
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf",
       "filed_date": "9/14/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035590",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf",
+      "filed_date": "10/7/2026",
       "parse_status": "parsed"
     }
   ]
