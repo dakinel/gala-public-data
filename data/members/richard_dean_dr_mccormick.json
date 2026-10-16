@@ -1868,6 +1868,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035204.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Richard Dean Dr McCormick",
+      "representative": "Richard Dean Dr McCormick",
+      "first_name": "Richard Dean Dr",
+      "last_name": "McCormick",
+      "chamber": "House",
+      "office": "Representative Richard Dean Dr McCormick (GA06)",
+      "ticker": "",
+      "asset_description": "Berkshire Hathaway Inc. New",
+      "type": "Purchase",
+      "transaction_date": "09/18/2026",
+      "disclosure_date": "",
+      "notification_date": "10/14/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035651.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -1912,6 +1931,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033610.pdf",
       "filed_date": "12/9/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20035651",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035651.pdf",
+      "filed_date": "10/14/2026",
+      "parse_status": "parsed"
     }
   ]
 }

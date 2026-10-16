@@ -1166,6 +1166,44 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "AZO",
+      "asset_description": "SP AutoZone, Inc. Common Stock (AZO)",
+      "type": "Sale (Full)",
+      "transaction_date": "09/22/2026",
+      "disclosure_date": "",
+      "notification_date": "10/14/2026",
+      "amount": "$15,001",
+      "amount_range": "$15,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "- [ST] $50,000 F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: R.W. Allen & Associates, Inc. > RWA&A - Securities SP Costco Wholesale Corporation -",
+      "type": "Sale (Full)",
+      "transaction_date": "09/18/2026",
+      "disclosure_date": "",
+      "notification_date": "10/14/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -1293,6 +1331,12 @@
       "doc_id": "20035492",
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf",
       "filed_date": "9/22/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035648",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf",
+      "filed_date": "10/14/2026",
       "parse_status": "parsed"
     }
   ]
