@@ -18,6 +18,44 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030181.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Darrell E. Issa",
+      "representative": "Darrell E. Issa",
+      "first_name": "Darrell E.",
+      "last_name": "Issa",
+      "chamber": "House",
+      "office": "Representative Darrell E. Issa (CA48)",
+      "ticker": "",
+      "asset_description": "US Treasury Note 3.375% due",
+      "type": "Purchase",
+      "transaction_date": "10/08/2026",
+      "disclosure_date": "",
+      "notification_date": "10/09/2026",
+      "amount": "$5,000,001 - 09",
+      "amount_range": "$5,000,001 - 09",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035700.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Darrell E. Issa",
+      "representative": "Darrell E. Issa",
+      "first_name": "Darrell E.",
+      "last_name": "Issa",
+      "chamber": "House",
+      "office": "Representative Darrell E. Issa (CA48)",
+      "ticker": "",
+      "asset_description": "/15/28 CUSIP 91282CNY3 [GS] $25,000,000 F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Account 1-Investment account-496 D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Purchase of US Treasury Bond with $10 million face value US Treasury Note 3.375% due",
+      "type": "Sale (Full)",
+      "transaction_date": "10/14/2026",
+      "disclosure_date": "",
+      "notification_date": "10/15/2026",
+      "amount": "$5,000,001 - 09",
+      "amount_range": "$5,000,001 - 09",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035700.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -26,6 +64,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030181.pdf",
       "filed_date": "4/17/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20035700",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035700.pdf",
+      "filed_date": "10/22/2026",
+      "parse_status": "parsed"
     }
   ]
 }

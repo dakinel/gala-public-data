@@ -4110,6 +4110,63 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "",
+      "asset_description": "NVIDIA Corporation - Common Stock",
+      "type": "Purchase",
+      "transaction_date": "10/01/2026",
+      "disclosure_date": "",
+      "notification_date": "10/01/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "NVDA",
+      "asset_description": "(NVDA) [ST] F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Morgan Stanley - E*TRADE #2 NVIDIA Corporation - Common Stock",
+      "type": "Purchase",
+      "transaction_date": "10/01/2026",
+      "disclosure_date": "",
+      "notification_date": "10/01/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Cleo Fields",
+      "representative": "Cleo Fields",
+      "first_name": "Cleo",
+      "last_name": "Fields",
+      "chamber": "House",
+      "office": "Representative Cleo Fields (LA06)",
+      "ticker": "NVDA",
+      "asset_description": "(NVDA) [ST] F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: Morgan Stanley - E*TRADE IRA Taiwan Semiconductor",
+      "type": "Purchase",
+      "transaction_date": "10/09/2026",
+      "disclosure_date": "",
+      "notification_date": "10/09/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -4243,6 +4300,12 @@
       "doc_id": "20035464",
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035464.pdf",
       "filed_date": "10/1/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035669",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf",
+      "filed_date": "10/22/2026",
       "parse_status": "parsed"
     }
   ]
