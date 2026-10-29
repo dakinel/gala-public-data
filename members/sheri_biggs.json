@@ -2626,6 +2626,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Sheri Biggs",
+      "representative": "Sheri Biggs",
+      "first_name": "Sheri",
+      "last_name": "Biggs",
+      "chamber": "House",
+      "office": "Representative Sheri Biggs (SC03)",
+      "ticker": "",
+      "asset_description": "SP Oaktree Strategic Credit Fund Class S",
+      "type": "Purchase",
+      "transaction_date": "09/30/2026",
+      "disclosure_date": "",
+      "notification_date": "10/06/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035525.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -2699,6 +2718,12 @@
       "doc_id": "20035489",
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035489.pdf",
       "filed_date": "9/22/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035525",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035525.pdf",
+      "filed_date": "10/27/2026",
       "parse_status": "parsed"
     }
   ]

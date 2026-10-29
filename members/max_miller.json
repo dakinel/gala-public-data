@@ -695,6 +695,44 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035528.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Max Miller",
+      "representative": "Max Miller",
+      "first_name": "Max",
+      "last_name": "Miller",
+      "chamber": "House",
+      "office": "Representative Max Miller (OH07)",
+      "ticker": "",
+      "asset_description": "AIX Ventures Fund II, LP (GLAS",
+      "type": "Sale (Partial)",
+      "transaction_date": "10/01/2026",
+      "disclosure_date": "",
+      "notification_date": "10/27/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035715.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Max Miller",
+      "representative": "Max Miller",
+      "first_name": "Max",
+      "last_name": "Miller",
+      "chamber": "House",
+      "office": "Representative Max Miller (OH07)",
+      "ticker": "",
+      "asset_description": "Funds, LP) [HN] F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: 2012 Trust D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000: Distribution of $6,923.58 Mercato Partners Traverse IV QP, LP",
+      "type": "Sale (Partial)",
+      "transaction_date": "09/30/2026",
+      "disclosure_date": "",
+      "notification_date": "10/27/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035715.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -792,6 +830,12 @@
       "doc_id": "20035528",
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035528.pdf",
       "filed_date": "9/27/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035715",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035715.pdf",
+      "filed_date": "10/27/2026",
       "parse_status": "parsed"
     }
   ]
