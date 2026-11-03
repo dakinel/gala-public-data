@@ -321,6 +321,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033779.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Carol Devine Miller",
+      "representative": "Carol Devine Miller",
+      "first_name": "Carol Devine",
+      "last_name": "Miller",
+      "chamber": "House",
+      "office": "Representative Carol Devine Miller (WV01)",
+      "ticker": "",
+      "asset_description": "SP Honeywell Aerospace Inc. - Common",
+      "type": "Sale (Full)",
+      "transaction_date": "09/29/2026",
+      "disclosure_date": "",
+      "notification_date": "10/29/2026",
+      "amount": "$710",
+      "amount_range": "$710",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035734.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -335,6 +354,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029135.pdf",
       "filed_date": "4/11/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20035734",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035734.pdf",
+      "filed_date": "10/30/2026",
+      "parse_status": "parsed"
     }
   ]
 }
