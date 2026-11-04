@@ -170,6 +170,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035065.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Robert E. Latta",
+      "representative": "Robert E. Latta",
+      "first_name": "Robert E.",
+      "last_name": "Latta",
+      "chamber": "House",
+      "office": "Representative Robert E. Latta (OH05)",
+      "ticker": "",
+      "asset_description": "SP Farmers & Merchants Bancorp, Inc.",
+      "type": "Purchase",
+      "transaction_date": "10/20/2026",
+      "disclosure_date": "",
+      "notification_date": "10/20/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035763.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -226,6 +245,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033346.pdf",
       "filed_date": "10/27/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20035763",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035763.pdf",
+      "filed_date": "11/3/2026",
+      "parse_status": "parsed"
     }
   ]
 }

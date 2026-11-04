@@ -242,6 +242,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034915.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Ann Wagner",
+      "representative": "Ann Wagner",
+      "first_name": "Ann",
+      "last_name": "Wagner",
+      "chamber": "House",
+      "office": "Representative Ann Wagner (MO02)",
+      "ticker": "",
+      "asset_description": "JT American Expr Natl Bank CD [GS]",
+      "type": "Sale (Partial)",
+      "transaction_date": "10/20/2026",
+      "disclosure_date": "",
+      "notification_date": "10/21/2026",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035751.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -280,6 +299,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033403.pdf",
       "filed_date": "11/4/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20035751",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035751.pdf",
+      "filed_date": "11/2/2026",
+      "parse_status": "parsed"
     }
   ]
 }
