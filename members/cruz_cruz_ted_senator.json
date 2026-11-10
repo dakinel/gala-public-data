@@ -1,0 +1,25 @@
+{
+  "trades": [
+    {
+      "politician_name": "Cruz Cruz, Ted (Senator)",
+      "first_name": "Cruz",
+      "last_name": "Cruz, Ted (Senator)",
+      "senator": "Cruz Cruz, Ted (Senator)",
+      "chamber": "Senate",
+      "ticker": "GS",
+      "asset_description": "Goldman Sachs Group",
+      "asset_type": "Stock",
+      "type": "Sale (Partial)",
+      "transaction_type": "Sale (Partial)",
+      "transaction_date": "11/11/2025",
+      "notification_date": "Rafael E",
+      "disclosure_date": "Rafael E",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Spouse",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/4290febc-6042-4538-a193-08a9f941647c/",
+      "comment": "--"
+    }
+  ],
+  "filings": []
+}

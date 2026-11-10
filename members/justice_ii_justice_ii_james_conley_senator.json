@@ -1,0 +1,45 @@
+{
+  "trades": [
+    {
+      "politician_name": "Justice, II Justice II, James Conley (Senator)",
+      "first_name": "Justice, II",
+      "last_name": "Justice II, James Conley (Senator)",
+      "senator": "Justice, II Justice II, James Conley (Senator)",
+      "chamber": "Senate",
+      "ticker": "PEBO",
+      "asset_description": "Peoples Bancorp Inc. - Common Stock",
+      "asset_type": "Stock",
+      "type": "Sale (Full)",
+      "transaction_type": "Sale (Full)",
+      "transaction_date": "08/28/2025",
+      "notification_date": "James Conley",
+      "disclosure_date": "James Conley",
+      "amount": "$250,001 - $500,000",
+      "amount_range": "$250,001 - $500,000",
+      "owner": "Self",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/8ee74188-75a9-4289-b6bd-5ccb94fd6b18/",
+      "comment": "--"
+    },
+    {
+      "politician_name": "Justice, II Justice II, James Conley (Senator)",
+      "first_name": "Justice, II",
+      "last_name": "Justice II, James Conley (Senator)",
+      "senator": "Justice, II Justice II, James Conley (Senator)",
+      "chamber": "Senate",
+      "ticker": "",
+      "asset_description": "Greenbrier Hotel Corporation and Affiliates Company: Greenbrier Hotel Corporation and Affiliates (White Sulphur Springs, WV) Description: Hospitality",
+      "asset_type": "Non-Public Stock",
+      "type": "Sale (Partial)",
+      "transaction_type": "Sale (Partial)",
+      "transaction_date": "08/14/2026",
+      "notification_date": "James Conley",
+      "disclosure_date": "James Conley",
+      "amount": "Unknown",
+      "amount_range": "Unknown",
+      "owner": "Self",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/0a93a20c-2a0f-4979-80ca-cc2f61297527/",
+      "comment": "--"
+    }
+  ],
+  "filings": []
+}

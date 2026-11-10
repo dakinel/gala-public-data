@@ -1,0 +1,25 @@
+{
+  "trades": [
+    {
+      "politician_name": "Schiff Schiff, Adam B. (Senator)",
+      "first_name": "Schiff",
+      "last_name": "Schiff, Adam B. (Senator)",
+      "senator": "Schiff Schiff, Adam B. (Senator)",
+      "chamber": "Senate",
+      "ticker": "AAPL",
+      "asset_description": "Apple Inc",
+      "asset_type": "Stock",
+      "type": "Sale (Partial)",
+      "transaction_type": "Sale (Partial)",
+      "transaction_date": "09/22/2025",
+      "notification_date": "Adam B",
+      "disclosure_date": "Adam B",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Spouse",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/e8371653-d5d0-4150-abca-15cb5e6f1b2c/",
+      "comment": "--"
+    }
+  ],
+  "filings": []
+}

@@ -1,0 +1,25 @@
+{
+  "trades": [
+    {
+      "politician_name": "Rounds Rounds, Mike (Senator)",
+      "first_name": "Rounds",
+      "last_name": "Rounds, Mike (Senator)",
+      "senator": "Rounds Rounds, Mike (Senator)",
+      "chamber": "Senate",
+      "ticker": "",
+      "asset_description": "Aeronics, Inc. Company: Aeronics, Inc. (Austin, TX) Description: Equipment Manufacturing",
+      "asset_type": "Non-Public Stock",
+      "type": "Sale (Full)",
+      "transaction_type": "Sale (Full)",
+      "transaction_date": "10/10/2025",
+      "notification_date": "M. Michael",
+      "disclosure_date": "M. Michael",
+      "amount": "$1,000,001 - $5,000,000",
+      "amount_range": "$1,000,001 - $5,000,000",
+      "owner": "Joint",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/374c35de-6615-4f76-85b9-7f8922bdcc37/",
+      "comment": "Publicly disclosed when information became available."
+    }
+  ],
+  "filings": []
+}

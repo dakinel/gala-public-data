@@ -1,0 +1,25 @@
+{
+  "trades": [
+    {
+      "politician_name": "Coons Coons, Chris (Senator)",
+      "first_name": "Coons",
+      "last_name": "Coons, Chris (Senator)",
+      "senator": "Coons Coons, Chris (Senator)",
+      "chamber": "Senate",
+      "ticker": "",
+      "asset_description": "W.L. Gore & Associates, Inc. Company: W.L. Gore & Associates, Inc. (Newark, Delaware) Description: Advanced materials manufacturing",
+      "asset_type": "Non-Public Stock",
+      "type": "Sale (Partial)",
+      "transaction_type": "Sale (Partial)",
+      "transaction_date": "08/07/2026",
+      "notification_date": "Christopher A",
+      "disclosure_date": "Christopher A",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Spouse",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/5a76ceb6-2d1d-4430-8a17-6512bcb402be/",
+      "comment": "--"
+    }
+  ],
+  "filings": []
+}

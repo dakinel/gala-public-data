@@ -1,0 +1,45 @@
+{
+  "trades": [
+    {
+      "politician_name": "Hagerty, IV Hagerty, Bill (Senator)",
+      "first_name": "Hagerty, IV",
+      "last_name": "Hagerty, Bill (Senator)",
+      "senator": "Hagerty, IV Hagerty, Bill (Senator)",
+      "chamber": "Senate",
+      "ticker": "ETRN EQT",
+      "asset_description": "Equitrans Midstream Corp (Exchanged) Eqt Corp (Received)",
+      "asset_type": "Stock",
+      "type": "Exchange",
+      "transaction_type": "Exchange",
+      "transaction_date": "07/22/2024",
+      "notification_date": "William F",
+      "disclosure_date": "William F",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/f60cfac8-0389-4a5e-8619-095312492adc/",
+      "comment": "While no immediate PTR required, provided to clearly denote basis for the renamed asset on the 2024 annual report that was previously named ETRN."
+    },
+    {
+      "politician_name": "Hagerty, IV Hagerty, Bill (Senator)",
+      "first_name": "Hagerty, IV",
+      "last_name": "Hagerty, Bill (Senator)",
+      "senator": "Hagerty, IV Hagerty, Bill (Senator)",
+      "chamber": "Senate",
+      "ticker": "",
+      "asset_description": "Hall Ward Energy Fund II, LP Company: Hall Ward Energy Fund II, LP (Oklahoma City, OK) Description: Limited Partnership with the purpose of investing in non-operating working interests in oil and gas wells.",
+      "asset_type": "Other",
+      "type": "Purchase",
+      "transaction_type": "Purchase",
+      "transaction_date": "01/29/2026",
+      "notification_date": "William F",
+      "disclosure_date": "William F",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Self",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/12848a78-c94a-4813-9051-5b3063c718a9/",
+      "comment": "--"
+    }
+  ],
+  "filings": []
+}

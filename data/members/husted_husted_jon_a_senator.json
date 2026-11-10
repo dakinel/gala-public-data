@@ -1,0 +1,25 @@
+{
+  "trades": [
+    {
+      "politician_name": "Husted Husted, Jon A. (Senator)",
+      "first_name": "Husted",
+      "last_name": "Husted, Jon A. (Senator)",
+      "senator": "Husted Husted, Jon A. (Senator)",
+      "chamber": "Senate",
+      "ticker": "",
+      "asset_description": "Series A-3 preferred stock Company: Boxabl (Las Vegas, Nevada) Description: Home construction",
+      "asset_type": "Non-Public Stock",
+      "type": "Purchase",
+      "transaction_type": "Purchase",
+      "transaction_date": "05/06/2025",
+      "notification_date": "Jon A",
+      "disclosure_date": "Jon A",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Spouse",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/b2cccee8-9ee6-4059-913b-ad68b28b6afb/",
+      "comment": "--"
+    }
+  ],
+  "filings": []
+}

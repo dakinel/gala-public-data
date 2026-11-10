@@ -1,0 +1,25 @@
+{
+  "trades": [
+    {
+      "politician_name": "Moody Moody, Ashley B. (Senator)",
+      "first_name": "Moody",
+      "last_name": "Moody, Ashley B. (Senator)",
+      "senator": "Moody Moody, Ashley B. (Senator)",
+      "chamber": "Senate",
+      "ticker": "",
+      "asset_description": "ET",
+      "asset_type": "Stock",
+      "type": "Purchase",
+      "transaction_type": "Purchase",
+      "transaction_date": "04/04/2025",
+      "notification_date": "Ashley",
+      "disclosure_date": "Ashley",
+      "amount": "$15,001 - $50,000",
+      "amount_range": "$15,001 - $50,000",
+      "owner": "Self",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/bc4381fc-d714-45da-be6f-1fa87f2212ba/",
+      "comment": "--"
+    }
+  ],
+  "filings": []
+}

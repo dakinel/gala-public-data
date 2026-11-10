@@ -1,0 +1,45 @@
+{
+  "trades": [
+    {
+      "politician_name": "Wyden Wyden, Ron (Senator)",
+      "first_name": "Wyden",
+      "last_name": "Wyden, Ron (Senator)",
+      "senator": "Wyden Wyden, Ron (Senator)",
+      "chamber": "Senate",
+      "ticker": "-- AMCR",
+      "asset_description": "BERY - Berry Global Group, Inc. (Exchanged) Amcor plc Ordinary Shares (Received)",
+      "asset_type": "Stock",
+      "type": "Exchange",
+      "transaction_type": "Exchange",
+      "transaction_date": "04/30/2025",
+      "notification_date": "Ron L",
+      "disclosure_date": "Ron L",
+      "amount": "$100,001 - $250,000",
+      "amount_range": "$100,001 - $250,000",
+      "owner": "Spouse",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/5ecc9b5c-07c1-4ec1-bd4a-2db759eff299/",
+      "comment": "--"
+    },
+    {
+      "politician_name": "Wyden Wyden, Ron (Senator)",
+      "first_name": "Wyden",
+      "last_name": "Wyden, Ron (Senator)",
+      "senator": "Wyden Wyden, Ron (Senator)",
+      "chamber": "Senate",
+      "ticker": "PFE",
+      "asset_description": "Pfizer, Inc. Common Stock",
+      "asset_type": "Stock",
+      "type": "Sale (Full)",
+      "transaction_type": "Sale (Full)",
+      "transaction_date": "06/03/2025",
+      "notification_date": "Ron L",
+      "disclosure_date": "Ron L",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Spouse",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/fe7c39b7-a8ee-4011-b0f6-ab3a320546a0/",
+      "comment": "--"
+    }
+  ],
+  "filings": []
+}

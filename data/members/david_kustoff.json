@@ -1,0 +1,31 @@
+{
+  "trades": [
+    {
+      "politician_name": "David Kustoff",
+      "representative": "David Kustoff",
+      "first_name": "David",
+      "last_name": "Kustoff",
+      "chamber": "House",
+      "office": "Representative David Kustoff (TN08)",
+      "ticker": "",
+      "asset_description": "JT Warner Bros. Discovery, Inc. - Series",
+      "type": "Sale (Full)",
+      "transaction_date": "10/07/2026",
+      "disclosure_date": "",
+      "notification_date": "10/12/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20024921.pdf",
+      "comment": ""
+    }
+  ],
+  "filings": [
+    {
+      "doc_id": "20024921",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20024921.pdf",
+      "filed_date": "11/9/2026",
+      "parse_status": "parsed"
+    }
+  ]
+}

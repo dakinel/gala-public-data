@@ -1013,6 +1013,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035553.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Nancy Pelosi",
+      "representative": "Nancy Pelosi",
+      "first_name": "Nancy",
+      "last_name": "Pelosi",
+      "chamber": "House",
+      "office": "Representative Nancy Pelosi (CA11)",
+      "ticker": "",
+      "asset_description": "SP Warner Bros. Discovery, Inc. - Series",
+      "type": "Sale (Full)",
+      "transaction_date": "10/07/2026",
+      "disclosure_date": "",
+      "notification_date": "10/07/2026",
+      "amount": "$50,001",
+      "amount_range": "$50,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -1056,6 +1075,12 @@
       "doc_id": "20035553",
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035553.pdf",
       "filed_date": "10/2/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035780",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf",
+      "filed_date": "11/6/2026",
       "parse_status": "parsed"
     }
   ]
