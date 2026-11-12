@@ -9452,6 +9452,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035035.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Julie Johnson",
+      "representative": "Julie Johnson",
+      "first_name": "Julie",
+      "last_name": "Johnson",
+      "chamber": "House",
+      "office": "Representative Julie Johnson (TX32)",
+      "ticker": "",
+      "asset_description": "JT Warner Bros. Discovery, Inc. - Series",
+      "type": "Sale (Full)",
+      "transaction_date": "10/07/2026",
+      "disclosure_date": "",
+      "notification_date": "11/09/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035806.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -9538,6 +9557,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033611.pdf",
       "filed_date": "12/11/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20035806",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035806.pdf",
+      "filed_date": "11/10/2026",
+      "parse_status": "parsed"
     }
   ]
 }

@@ -219,6 +219,26 @@
       "owner": "Self",
       "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/b9164fd3-7f99-4060-8e86-7ad89350cd03/",
       "comment": "--"
+    },
+    {
+      "politician_name": "Peters Peters, Gary (Senator)",
+      "first_name": "Peters",
+      "last_name": "Peters, Gary (Senator)",
+      "senator": "Peters Peters, Gary (Senator)",
+      "chamber": "Senate",
+      "ticker": "T",
+      "asset_description": "AT&T Inc.",
+      "asset_type": "Stock",
+      "type": "Purchase",
+      "transaction_type": "Purchase",
+      "transaction_date": "06/29/2026",
+      "notification_date": "Gary C",
+      "disclosure_date": "Gary C",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/40fbe259-f282-4982-a53f-1c7278d041cd/",
+      "comment": "--"
     }
   ],
   "filings": []
