@@ -139,6 +139,26 @@
       "owner": "Spouse",
       "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/36b2e868-6789-43e3-91eb-ebe85aad5699/",
       "comment": "Dividend Reinvestment"
+    },
+    {
+      "politician_name": "McConnell, Jr. McConnell, A. Mitchell Jr. (Senator)",
+      "first_name": "McConnell, Jr.",
+      "last_name": "McConnell, A. Mitchell Jr. (Senator)",
+      "senator": "McConnell, Jr. McConnell, A. Mitchell Jr. (Senator)",
+      "chamber": "Senate",
+      "ticker": "WFC",
+      "asset_description": "Wells Fargo & Company",
+      "asset_type": "Stock",
+      "type": "Purchase",
+      "transaction_type": "Purchase",
+      "transaction_date": "09/01/2025",
+      "notification_date": "A. Mitchell",
+      "disclosure_date": "A. Mitchell",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Spouse",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/bf5feb82-a589-4318-a3ba-5905269d580a/",
+      "comment": "Dividend Reinvestment"
     }
   ],
   "filings": []

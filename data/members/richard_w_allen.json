@@ -1204,6 +1204,44 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "SHW",
+      "asset_description": "SP Sherwin-Williams Company (SHW)",
+      "type": "Sale (Partial)",
+      "transaction_date": "10/09/2026",
+      "disclosure_date": "",
+      "notification_date": "11/10/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf",
+      "comment": ""
+    },
+    {
+      "politician_name": "Richard W. Allen",
+      "representative": "Richard W. Allen",
+      "first_name": "Richard W.",
+      "last_name": "Allen",
+      "chamber": "House",
+      "office": "Representative Richard W. Allen (GA12)",
+      "ticker": "",
+      "asset_description": "[ST] F\u0000\u0000\u0000\u0000\u0000 S\u0000\u0000\u0000\u0000\u0000: New S\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 O\u0000: R.W. Allen & Associates, Inc. > RWA&A - Securities US Treasury Note 3.5% DUE 1/31/30",
+      "type": "Purchase",
+      "transaction_date": "10/02/2026",
+      "disclosure_date": "",
+      "notification_date": "11/10/2026",
+      "amount": "$15,001",
+      "amount_range": "$15,001",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -1337,6 +1375,12 @@
       "doc_id": "20035648",
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf",
       "filed_date": "10/14/2026",
+      "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20035821",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf",
+      "filed_date": "11/11/2026",
       "parse_status": "parsed"
     }
   ]
