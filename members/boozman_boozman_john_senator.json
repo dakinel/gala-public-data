@@ -6039,6 +6039,26 @@
       "owner": "Joint",
       "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/d32a2469-2157-4352-886c-cc992fd13d2f/",
       "comment": "--"
+    },
+    {
+      "politician_name": "Boozman Boozman, John (Senator)",
+      "first_name": "Boozman",
+      "last_name": "Boozman, John (Senator)",
+      "senator": "Boozman Boozman, John (Senator)",
+      "chamber": "Senate",
+      "ticker": "",
+      "asset_description": "Broadcom Inc. - Common Stock",
+      "asset_type": "Stock",
+      "type": "Purchase",
+      "transaction_type": "Purchase",
+      "transaction_date": "05/13/2025",
+      "notification_date": "John",
+      "disclosure_date": "John",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Joint",
+      "ptr_link": "https://efdsearch.senate.gov/search/view/ptr/db2a4c73-e714-4ad0-9548-b1b83f1d0773/",
+      "comment": "--"
     }
   ],
   "filings": []

@@ -493,20 +493,5 @@
     "owner": "Self",
     "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030539.pdf",
     "comment": ""
-  },
-  {
-    "politician_name": "Marjorie Taylor Greene",
-    "chamber": "House",
-    "bioguide_id": "",
-    "ticker": "UNH",
-    "asset_description": "UnitedHealth Group Incorporated Common Stock",
-    "asset_type": "Stock",
-    "transaction_type": "Purchase",
-    "amount_range": "$1,001 - $15,000",
-    "transaction_date": "2025-05-16",
-    "notification_date": "2025-05-19",
-    "owner": "Self",
-    "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030389.pdf",
-    "comment": ""
   }
 ]
