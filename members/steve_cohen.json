@@ -526,6 +526,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035350.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Steve Cohen",
+      "representative": "Steve Cohen",
+      "first_name": "Steve",
+      "last_name": "Cohen",
+      "chamber": "House",
+      "office": "Representative Steve Cohen (TN09)",
+      "ticker": "",
+      "asset_description": "Warner Bros. Discovery, Inc. - Series",
+      "type": "Sale (Full)",
+      "transaction_date": "10/07/2026",
+      "disclosure_date": "",
+      "notification_date": "11/16/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036849.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -624,6 +643,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033572.pdf",
       "filed_date": "12/16/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20036849",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036849.pdf",
+      "filed_date": "11/18/2026",
+      "parse_status": "parsed"
     }
   ]
 }

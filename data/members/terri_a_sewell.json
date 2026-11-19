@@ -93,6 +93,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034384.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Terri A. Sewell",
+      "representative": "Terri A. Sewell",
+      "first_name": "Terri A.",
+      "last_name": "Sewell",
+      "chamber": "House",
+      "office": "Representative Terri A. Sewell (AL07)",
+      "ticker": "TPR",
+      "asset_description": "Tapestry, Inc. Common Stock (TPR)",
+      "type": "Sale (Full)",
+      "transaction_date": "11/05/2026",
+      "disclosure_date": "",
+      "notification_date": "11/06/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036864.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -107,6 +126,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030235.pdf",
       "filed_date": "5/12/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20036864",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036864.pdf",
+      "filed_date": "11/18/2026",
+      "parse_status": "parsed"
     }
   ]
 }
