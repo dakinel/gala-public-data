@@ -471,6 +471,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035662.pdf",
       "filed_date": "11/5/2026",
       "parse_status": "parsed"
+    },
+    {
+      "doc_id": "20036848",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036848.pdf",
+      "filed_date": "11/24/2026",
+      "parse_status": "parse_failed"
     }
   ]
 }

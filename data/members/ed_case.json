@@ -262,6 +262,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035275.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Ed Case",
+      "representative": "Ed Case",
+      "first_name": "Ed",
+      "last_name": "Case",
+      "chamber": "House",
+      "office": "Representative Ed Case (HI01)",
+      "ticker": "AAPL",
+      "asset_description": "SP Apple Inc. - Common Stock (AAPL)",
+      "type": "Purchase",
+      "transaction_date": "11/16/2026",
+      "disclosure_date": "",
+      "notification_date": "11/21/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036891.pdf",
+      "comment": ""
     }
   ],
   "filings": [
@@ -294,6 +313,12 @@
       "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033691.pdf",
       "filed_date": "12/24/2025",
       "parse_status": "parse_failed"
+    },
+    {
+      "doc_id": "20036891",
+      "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036891.pdf",
+      "filed_date": "11/21/2026",
+      "parse_status": "parsed"
     }
   ]
 }
