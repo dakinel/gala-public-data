@@ -415,6 +415,25 @@
       "owner": "Self",
       "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035662.pdf",
       "comment": ""
+    },
+    {
+      "politician_name": "Daniel Meuser",
+      "representative": "Daniel Meuser",
+      "first_name": "Daniel",
+      "last_name": "Meuser",
+      "chamber": "House",
+      "office": "Representative Daniel Meuser (PA09)",
+      "ticker": "",
+      "asset_description": "SP NVIDIA Corporation - Common Stock",
+      "type": "Sale (Partial)",
+      "transaction_date": "10/27/2026",
+      "disclosure_date": "",
+      "notification_date": "11/13/2026",
+      "amount": "$1,001 - $15,000",
+      "amount_range": "$1,001 - $15,000",
+      "owner": "Self",
+      "ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036848.pdf",
+      "comment": ""
     }
   ],
   "filings": [
